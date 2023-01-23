@@ -248,17 +248,18 @@ import News from '../FullStoryData/News'
         author:'Leo Komminoth',
         story:<News id={21}/>
       } , 
-           /* 
+            
       {
         id:22,
         region:'Africa',
         niche:'Economy',
         image: "image22.png",
-        headline:"Africa's economic growth to stabilise, inflation seen easing - AfDB",         
-        news_age: TimeStamp (new Date(2023,0,23,1,45,0)),
-        author:'Joe Bavier',
+        headline:"AfDB Tips Senegal, Mozambique Ahead Of Nigeria In Gas Investment ",         
+        news_age: TimeStamp (new Date(2023,0,23,10,50,0)),
+        author:' Chika Izuora',
         story:<News id={22}/>
-      } , */
+      },
+
     ];     
 
    

@@ -721,36 +721,30 @@
                                         President Guelleh said construction works could be completed as early as 2027 and infrastructure will be handed over to Djibouti 
                                    </p>
                           },
-                          /*
+                          
                           {
                             id:22,
                             story:<p>
-                                       <b>JOHANNESBURG - South Africa</b>
-                                      Africa's economic growth will stabilise at 4% over the next two years, and inflation will slow as the continent rebounds from a pandemic-induced slump and external shocks including the Ukraine war, according to the African Development Bank (AfDB).
-                                      <br />
-                                        <br /> 
-                                    While Africa avoided some of the worst health impacts of the COVID-19 pandemic, many countries were hit hard by the economic fallout. And an initial 2021 recovery from the first pandemic shocks was hampered by rising inflation, spiking food prices and tightening global monetary policy last year.
-                                    <br />
-                                        <br />
-                                    Africa's gross domestic product growth slowed to 3.8% in 2022 from 4.8% in 2021. But in its Macroeconomic Performance and Outlook published on Thursday, the bank projected growth will accelerate to 4.0% this year and 3.9% in 2024, outstripping world averages.
-                                    <br />
-                                        <br />
-                                    "Africa has demonstrated continued resilience," AfDB President Akinwumi Adesina wrote in a forward to the report. "The top five performing African countries before the COVID-19 pandemic are projected to grow by more than 5.5%."
-                                    <br />
-                                        <br />
-                                    Buoyed by revenues and investment related to large natural gas projects, Mozambique and Senegal will rank among Africa's fastest growing economies. Senegal is projected to see its economy grow 10.2% in 2023 with Mozambique expanding 8% next year.
-                                    <br />
-                                        <br />
-                                    Africa's two biggest economies - Nigeria and South Africa - will remain a drag on continental growth however, with projections of 3.1% and 1.4% respectively for this year.
-                                    <br />
-                                        <br />
-                                    Those growth rates are slightly higher than International Monetary Fund forecasts.
-                                    <br />
-                                        <br />
-                                    Average inflation, meanwhile, which last year hit 13.8% - the highest rate in more than a decade - will ease to 8.8% by 2024. 
+                                      <b>AFDB__ </b>
 
+                                      The African Development Bank(AfDB) has seen countries like Senegal and Mozambique growing their economies ahead of Nigeria in 2023 following revenue from gas investments.
+                                        <br />
+                                        <br />
+                                      The AfDB said, buoyed by revenues and investment related to large natural gas projects, Mozambique and Senegal will rank among Africa’s fastest growing economies.
+                                      <br />
+                                      <br />
+                                      Senegal is projected to see its economy grow 10.2 per cent in 2023 with Mozambique expanding 8 per cent next year.
+                                      <br />
+                                      <br />
+                                      However, the bank said, Africa’s two biggest economies, Nigeria and South Africa will remain a drag on continental growth, however, with projections of 3.1 per cent and 1.4 per cent respectively for this year.
+                                      <br />
+                                      <br />
+                                      Those growth rates are slightly higher than International Monetary Fund forecasts.
+                                      <br />
+                                      <br />
+                                      Average inflation, meanwhile, which last year hit 13.8 per cent the highest rate in more than a decade, will ease to 8.8 per cent by 2024. But AfDB cautioned that Africa’s expected economic improvement remains fragile.
                                   </p>  
-                          } */
+                          } 
                   ]
 
 
