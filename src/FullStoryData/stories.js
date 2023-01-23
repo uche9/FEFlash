@@ -785,6 +785,8 @@
 
                                      <b>UNESCO __ </b> has officially recognised Senegal as the origin of Jollof rice, also known as Ceebu jën in Senegal, settling a long-standing debate between West African nations Ghana, Nigeria and Senegal. The dish, which is a staple in West African cuisine, is made of rice and fish, accompanied by vegetables and sometimes tomatoes. 
                                      According to research by The Conversation Africa, the origins of Jollof rice can be traced back to the entrenchment of colonial rule in West Africa between 1860 and 1940. During this period, French colonizers replaced food crops with broken rice imported from Indochina. Over time, broken rice became more prized by the Senegalese than whole rice grain and the dish known as Ceebu jën was born. 
+                                     <br />
+                                     <br />
                                      The dish has become a source of pride and cultural identity for the Senegalese and has been recognised as an intangible heritage of humanity by UNESCO. This certification is expected to positively impact the economy, particularly in tourism, agriculture, fishing and catering.
                                      <br />
                                      <br />
