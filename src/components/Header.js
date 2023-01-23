@@ -41,8 +41,8 @@ const [headline,setHeadline]=React.useState([]);
 useEffect(()=>{
     
 let Text=`||Tech:New AI ChatGPT takes over the internet.
-|| Health: Drinking water improves brain function~~Experts
-|| Politics: Nigerian Elections set for April 2023
+|| Economy: AfDB Tips Senegal, Mozambique Ahead Of Nigeria In Gas Investment
+|| Politics: Nigerian Elections set for March 2023
 || Migration: Italy and Tunisia seek to address migration setbacks
 || Tech: Apple unveils new iPhones, Apple Watches and AirPods
 ||Fashion:Dakar, Senegal is becoming the new fashion hub in Africa`
