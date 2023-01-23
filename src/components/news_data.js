@@ -1,0 +1,263 @@
+import TimeStamp from '../support/TimeStamp'
+
+import News from '../FullStoryData/News'
+
+
+ const news_data =[
+      
+             {
+              id:1,
+              region:'Africa',
+              niche:'Sports',
+              image: "image1.png",
+              headline:"World Cup 2022: Six things Africa learned at historic finals" ,
+              news_age: TimeStamp (new Date(2023,0,18,12,22)),
+              author:'Nigel Bidman',
+              story:<News id={1}/> 
+              },
+
+        
+             {
+              id:2,
+              region:'USA',
+              niche:'Business',
+              image: "image2.png",
+              headline:"Bugatti is auctioning off its last purely gas-powered car and it's accidentally one-of-a-kind" ,
+              news_age: TimeStamp (new Date(2023,0,16,5,55)),
+              author:'Peter Valdes-Dapena',
+              story:<News id={2}/>
+            },
+        
+               
+             {
+              id:3,
+              region:'Africa',
+              niche:'Education',
+              image: "image3.png",
+              headline:"Nelly Cheboi, who creates computer labs for Kenyan schoolchildren, is CNN's Hero of the Year" ,
+              news_age: TimeStamp (new Date(2022,11,24,5,55)),
+              author:' Tricia Escobedo',
+              story:<News id={3}/>
+            },
+       
+               
+             {
+              id:4,
+              region:'Africa',
+              niche:'Fashion',
+              image: "image4.png",
+              headline:"Mission to preserve, share and protect African textile legacies" ,
+              news_age: TimeStamp (new Date(2023,0,18,5,55)),
+              author:'Ijeoma Thomas-Odia',
+              story:<News id={4}/>
+            },
+
+       
+              {
+               id:5,
+               region:'Africa',
+               niche:'Technology',
+               image: "image5.png",
+               headline:'The future of businesses as Africa embraces technology' ,
+               news_age: TimeStamp (new Date(2023,0,18,12,55)),
+               author:'Alan Chekwech',
+               story:<News id={5}/>
+            },
+       
+               
+              {
+               id:6,
+               region:'Nigeria',
+               niche:'Business',
+               image: "image6.png",
+               headline:"Shell pays 15 mln euros in compensation to Nigerian farmers" ,
+               news_age: TimeStamp (new Date(2023,0,19,0,55)),
+               author:'By Rédaction Africanews',
+               story:<News id={6}/>
+            },
+              
+              {
+               id:7,
+               region:'Africa',
+               niche:'Technology',
+               image: "image7.png",
+               headline:"Lowering prosthetic costs through 3D technology" ,
+               news_age: TimeStamp (new Date(2023,0,16,12,5,55)),
+               author:'Wandiswa Ntengento',
+               story:<News id ={7}/>
+            },
+              
+                      
+            {
+               id:8,
+               region:'Africa',
+               niche:'Sports',
+               image: "image8.png",
+               headline:"Former South African herdsman prepares to sail across Atlantic" ,
+               news_age: TimeStamp (new Date(2022,11,24,5,55)),
+               author:'Daniel Bellamy',
+               story:<News id={8}/>
+            }, 
+            
+            {
+              id:9,
+              region:'Africa',
+              niche:'Faith',
+              image: "image9.png",
+              headline:"Ghana police ban harmful New Year prophecies" ,
+              news_age: TimeStamp (new Date(2022,11,24,5,55)),
+              author:'Dickens Olewe',
+              story:<News id={9}/>
+           },  
+
+           {
+            id:10,
+            region:'China',
+            niche:'Technology',
+            image: "image10.png",
+            headline:"China must raise self-reliance in agricultural technology, Xi says " ,
+            news_age: TimeStamp (new Date(2022,11,24,5,55)),
+            author:'Reuters',
+            story:<News id={10}/>
+         },  
+
+         {
+          id:11,
+          region:'China',
+          niche:'Technology',
+          image: "image11.png",
+          headline:"US-China chips saga" ,
+          news_age: TimeStamp (new Date(2022,11,24,5,55)),
+          author:'Reuters',
+          story:<News id={11}/>
+       },
+
+       {
+        id:12,
+        region:'China',
+        niche:'Education',
+        image: "image12.png",
+        headline:"Educational cooperation between Pakistan, China promotes high-quality CPEC development, says expert",
+        news_age: TimeStamp (new Date(2022,11,24,5,55)),
+        author:'Raheela Nazir',
+        story:<News id={12}/>
+     }
+     ,
+
+       {
+         id:13,
+         region:'Nigeria',
+         niche:'Economy',
+         image: "image13.png",
+         headline:" SOKOTO, Nigeria: Old notes: Reconsider Jan. 31 deadline, Sultan tells CBN",
+         news_age: TimeStamp (new Date(2023,0,20,1,1,5)),
+         author:'Abubakar Auwal',
+         story:<News id={13}/>
+       } 
+       ,
+       {
+         id:14,
+         region:'Nigeria',
+         niche:'Economy',
+         image: "image14.png",
+         headline: 'ABUJA, Nigeria:Gradual removal of petrol subsidy starts April —FG',
+         news_age: TimeStamp (new Date(2023,0,20,1,35,5)),
+         author:'Emeka Anaeto',
+         story:<News id={14}/>
+       } 
+
+       ,
+       {
+         id:15,
+         region:'Africa',
+         niche:'Fashion',
+         image: "image15.png",
+         headline: 'DAKAR, Senegal:Dakar is reclaiming its place as the cultural capital of Africa',
+         news_age: TimeStamp (new Date(2023,0,20,2,15,5)),
+         author:'Bird Story Agency',
+         story:<News id={15}/>
+       },
+
+       {
+         id:16,
+         region:'Canada',
+         niche:'Economy',
+         image: "image16.png",
+         headline: 'Canada: CRS Score Plummets As Canada Conducts Second Express Entry Draw In A Week',                            
+         news_age: TimeStamp (new Date(2023,0,20,2,33,5)),
+         author:'Collin R. Singer',
+         story:<News id={16}/>
+       },
+
+       {
+         id:17,
+         region:'USA',
+         niche:'Technology',
+         image: "image17.png",
+         headline:'USA : Apple unveils new iPhones, Apple Watches and AirPods'  ,         
+         news_age: TimeStamp (new Date(2023,0,20,3,13,5)),
+         author:'Samantha Murphy Kelly',
+         story:<News id={17}/>
+       } 
+
+       ,
+
+       {
+         id:18,
+         region:'Canada',
+         niche:'Life_Style',
+         image: "image18.png",
+         headline:'Canada : These are the top 20 fastest-growing jobs in Canada for 2023: LinkedIn'  ,         
+         news_age: TimeStamp (new Date(2023,0,20,21,6,5)),
+         author:'Hayatullah Amanat ',
+         story:<News id={18}/>
+       } 
+       ,
+
+       {
+         id:19,
+         region:'Nigeria',
+         niche:'Fashion',
+         image: "image19.png",
+         headline:'Find the Bob Haircut That Complements Your Face Shape With This Guide',         
+         news_age: TimeStamp (new Date(2023,0,21,1,0,0)),
+         author:'Mary Honkus',
+         story:<News id={19}/>
+       } 
+
+       ,
+
+       {
+         id:20,
+         region:'Nigeria',
+         niche:'Politics',
+         image: "image20.png",
+         headline:'PVC Collection: Lagos Govt Declares Work-Free Days',         
+         news_age: TimeStamp (new Date(2023,0,21,1,40,0)),
+         author:'Emmanuel Egobiambu',
+         story:<News id={20}/>
+       } ,  /*
+        {
+        id:21,
+        region:'Africa',
+        niche:'Business',
+        image: "image21.png",
+        headline:'Djibouti signs $1bn rocket deal with Hong Kong company',         
+        news_age: TimeStamp (new Date(2023,0,23,1,28,0)),
+        author:'Leo Komminoth',
+        story:<News id={21}/>
+      } ,
+      {
+        id:22,
+        region:'Africa',
+        niche:'Economy',
+        image: "image22.png",
+        headline:"Africa's economic growth to stabilise, inflation seen easing - AfDB",         
+        news_age: TimeStamp (new Date(2023,0,23,1,45,0)),
+        author:'Joe Bavier',
+        story:<News id={22}/>
+      } , */
+    ];     
+
+   
+    export default news_data;

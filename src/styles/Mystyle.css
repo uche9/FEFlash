@@ -1,0 +1,329 @@
+
+*{
+    box-sizing: border-box;
+    margin:0;
+}
+
+
+  
+body,html {
+
+    overflow-x: hidden;
+  }
+
+ 
+
+.header--container{
+    width:auto;
+    display: flex;
+    justify-content:center;    
+    width:auto;
+    font-size: 100px;
+    background-color: rgb(67, 5, 148);
+    height: 100px ; 
+    box-shadow: 3px,4px, 3px;  
+    border-bottom: 2px solid rgb(222, 5, 241);
+     
+}
+
+.container--news--headline{
+    height:50px;
+    margin-top: 1px;
+    white-space: nowrap;
+    overflow: hidden;
+    border-bottom: 2px solid rgb(222, 5, 241);
+    background-color:#fff;
+    width:auto;
+    margin:1px;
+    height:52px; 
+    border-radius: 1px;
+    font-weight: 600;
+    font-family:'monospace', Arial, sans-serif;
+    font-size: 14px;
+    box-shadow: 0px 3px 3px;
+
+}
+
+.date--container{
+    background-color:#fff;
+    width:auto;
+    margin:1px;
+    height:52px; 
+    border-radius: 10px;
+    display: flex;
+    
+    justify-content: space-evenly;
+    align-items: center;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    color:#000;
+    box-shadow: 2px 3px 3px;
+}
+
+
+.addspace {
+    border: 3px solid rgb(222, 5, 241);
+    border-radius: 10px;
+}
+
+.main--container{
+    box-shadow: 2px 3px 3px;
+    border-radius: 10px;
+    padding: 2px;
+    width:auto;
+}
+
+.status--bar {
+     color:white;
+     display:flex;
+     justify-content:center;
+     text-align: center;
+     align-items: center;
+     background-color:purple;
+     width:auto;
+     font-family: 'Courier New', Courier, monospace;
+}
+
+.select--niche-text{
+   
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    padding: 2px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 800;
+    display:flex;
+    align-items: center;
+    color:#000;
+    box-shadow: 2px 3px 3px;
+    margin-bottom: 7px;
+}
+
+.container--niche--tabs{
+    
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height:auto;
+    width:auto;
+    margin: 1px;
+    background-color:#fff;
+    flex-wrap: wrap;
+    box-shadow: 2px 3px 3px ;
+    margin-bottom: 6px;
+    
+
+}
+
+.niche--tabs{
+    background-color:bisque;
+    font-size: 12px;
+    width: 100px;
+    background-color: rgb(243, 236, 236);
+    height:28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: auto;
+    margin: 3px;
+    font-weight: 800;
+    padding:2px 10px;
+    box-shadow:2px 3px 3px;
+    border-radius:7px ; 
+    text-decoration: none;
+    }
+
+    .niche--tabs:hover{
+        background-color:bisque;
+        font-size: 12px;
+        width: 100px;
+        height:28px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 3px;
+        font-weight: 800;
+        padding:2px 10px;
+        box-shadow:1px 1px 1px;
+        border-radius:7px ; 
+        transition:300ms;
+        }
+
+.news--tab--container{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+    text-transform: none;
+    width: 250px;
+    height:300px;
+    background-color: rgb(255, 255, 255);
+    margin:4px;
+    box-shadow: 3px 3px 2px;
+    
+}
+.news--tab--container:hover{
+    width: 255px;
+    height:230px;
+    box-shadow: 1px 1px 1px;
+    border: 2px solid peru;
+    transition:1000ms
+}
+
+
+.news--container{
+    display:flex;
+    flex-wrap: wrap;
+    width: auto;
+    height:auto;
+    margin:2;
+    justify-content:flex-start
+}
+
+.image--item{
+   
+    border-radius: 5px;
+    max-width:100%;
+    aspect-ratio:2;
+    margin-left:2px;
+    margin-top:2px;
+    box-shadow: 2px 2px 1px;
+ }
+
+ .container--image--item{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+
+
+.headline{
+    margin-left:2px;
+    font-size: 18px;
+    font-weight:900;
+    }
+
+.newsbit--info{
+    color:#000;
+    text-align: center;
+    font-size:8px;
+    font-weight: 700;
+}
+
+
+.container--region--navbar{
+        display: flex;
+        flex-direction: column;
+        font-size:9px;
+        text-align:center;
+        font-weight:bold;
+        background-color:blue;       
+        margin-bottom:0;
+        height: 500px;
+}
+
+.text--select-region{
+ width:100px;
+ height: 25px;
+ display: flex;
+ margin-bottom: 10px;
+ font-size: 9px;
+ font-weight: 800;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Super--container{
+display:flex
+    
+}
+
+.region_tabs{
+font-size: 10px;
+width: 60px;
+height:30px;
+display:flex;
+justify-content: center;
+align-items: center;
+border-radius: 3px;
+padding: auto;
+margin: 3px;
+font-weight: 800;
+padding:2px 10px;
+background-color:crimson;
+color:white;
+box-shadow: 2px 3px 3px;
+}
+
+.region_tabs:hover{
+    font-size: 12px;
+    width: 60px;
+    height:30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+    padding: auto;
+    margin: 3px;
+    font-weight: 800;
+    padding:2px 10px;
+    background-color:crimson;
+    color:white;
+    box-shadow: 1px 1px 1px;
+    }
+    
+.container--region--tabs{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height:auto;
+    background-color: #0000ff;
+    margin: 0px;
+
+}
+
+.full--story{
+    width: auto;
+    height:auto;
+    background-color:white;
+    box-shadow: 2px 3px 3px;
+    border-radius: 3px;
+}
+
+.home {
+    margin-right:7px;
+     font-weight:800;
+     font-size:20px;
+     background-color:greenyellow
+    }
+
+.news--body{
+    margin-right: 15px;
+    padding-left: 2px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+p{
+    padding:20px
+}
+
+
+.footer--container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact--container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
