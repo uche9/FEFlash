@@ -45,6 +45,7 @@ let Text=`||Tech:New AI ChatGPT takes over the internet.
 || Politics: Nigerian Elections set for March 2023
 || Migration: Italy and Tunisia seek to address migration setbacks
 || Tech: Apple unveils new iPhones, Apple Watches and AirPods
+|| Tech: Djibouti signs $1bn rocket deal with Hong Kong company
 ||Fashion:Dakar, Senegal is becoming the new fashion hub in Africa`
 
   setTimeout(()=>{

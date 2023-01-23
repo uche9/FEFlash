@@ -744,7 +744,40 @@
                                       <br />
                                       Average inflation, meanwhile, which last year hit 13.8 per cent the highest rate in more than a decade, will ease to 8.8 per cent by 2024. But AfDB cautioned that Africa’s expected economic improvement remains fragile.
                                   </p>  
-                          } 
+                          } ,
+
+                          {
+                            id:23,
+                            story: <p>
+                                      <b>ABEOKUTA, Nigeria</b>
+                                      The President of African Development Bank (AfDB), Akinwunmi Adesina on Thursday called for adequate funding of education sector to reduce youth unemployment in Africa.
+                                        <br />
+                                        <br />
+                                      Adesina warned that, the high unemployment rate in Africa if not checked could worsen the social and political fragility of countries in the continent.
+                                      <br />
+                                        <br />
+                                      The AfDB President gave the warning in a lecture delivered at a Colloquium on “The Role of Education in 21st Century Nigeria Development: BBHS Adventure” as part of activities marking the 100 years anniversary of Baptist Boys High School (BBHS), Abeokuta, Ogun State.
+                                        <br />
+                                        <br />
+                                        The event which was attended by the former Speaker of the House of Representatives, Dimeji Bankole and other alumni of the school was organized by the Old Boys Association of the school.
+                                        <br />
+                                        <br />
+                                        Adesina while delivering his lecture virtually said, for the United Nations (UN) goal for inclusive and quality education for all to be achieved, the global spending on education must rise from $1.2 trillion to $3 trillion per year by 2030.
+                                        <br />
+                                        <br />
+                                        He said, Nigeria as a nation with rapidly growing population must do more to ensure that the younger generation receive access to the education they deserve.
+                                        <br />
+                                        <br />
+                                        He said, “As a nation, the demands of a dynamic, fast-changing and integrated labour market globally require that we must significantly invest in building first grade and competitive human capital”.
+                                        <br />
+                                        <br />
+                                        “We must also improve educational system to be more resilient and able to adapt to the rapidly changing environment.
+                                        <br />
+                                        <br />
+                                         
+                                        </p>
+
+                          }
                   ]
 
 

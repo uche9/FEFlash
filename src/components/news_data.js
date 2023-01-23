@@ -260,6 +260,17 @@ import News from '../FullStoryData/News'
         story:<News id={22}/>
       },
 
+      {
+        id:23,
+        region:'Africa',
+        niche:'Education',
+        image: "image23.png",
+        headline:"AfDB President calls for adequate funding of education in Africa",         
+        news_age: TimeStamp (new Date(2023,0,23,11,34,0)),
+        author:'James Ogunnaike',
+        story:<News id={23}/>
+      },
+
     ];     
 
    
