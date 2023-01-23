@@ -10,11 +10,15 @@ export default function Footer(){
                  <br />
                  <hr />
                  <a href='mailto:kwicknewsnetwork@gmail.com' >
-                    <img src={require('../logo/gmail.png') } alt='contact icon'    style={{textAlign:'center',width:'100px', height:'100px' }}/>
+                    <img src={require('../logo/gmail.png') } alt='contact icon'    style={{textAlign:'center',width:'80px', height:'80px' }}/>
                 </a>
 
                 <a href='https://www.facebook.com/profile.php?id=100089358050735' >
-                    <img src={require('../logo/facebook.png') } alt='contact icon'    style={{textAlign:'center',width:'100px', height:'100px' }}/>
+                    <img src={require('../logo/facebook.png') } alt='contact icon'    style={{textAlign:'center',width:'80px', height:'80px' }}/>
+                </a>
+
+                <a href='https://www.linkedin.com/in/kwick-news-network-117353263' >
+                    <img src={require('../logo/linkedin.png') } alt='contact icon'    style={{textAlign:'center',width:'80px', height:'80px' }}/>
                 </a>
                  <br />
                  <hr />
