@@ -707,7 +707,7 @@
                                      <br />
                                     “To this end, Mr Governor has graciously approved a work-free day to enable public servants to collect their PVCs from their respective local government/local council development areas…”
                                    </p>
-                          } /*,
+                          } ,
                           {
                             id:21,
                             story: <p>
@@ -721,6 +721,7 @@
                                         President Guelleh said construction works could be completed as early as 2027 and infrastructure will be handed over to Djibouti 
                                    </p>
                           },
+                          /*
                           {
                             id:22,
                             story:<p>

@@ -236,17 +236,19 @@ import News from '../FullStoryData/News'
          news_age: TimeStamp (new Date(2023,0,21,1,40,0)),
          author:'Emmanuel Egobiambu',
          story:<News id={20}/>
-       } ,  /*
+       } ,
+            
         {
         id:21,
         region:'Africa',
         niche:'Business',
         image: "image21.png",
         headline:'Djibouti signs $1bn rocket deal with Hong Kong company',         
-        news_age: TimeStamp (new Date(2023,0,23,1,28,0)),
+        news_age: TimeStamp (new Date(2023,0,23,10,20,0)),
         author:'Leo Komminoth',
         story:<News id={21}/>
-      } ,
+      } , 
+           /* 
       {
         id:22,
         region:'Africa',
