@@ -777,6 +777,24 @@
                                          
                                         </p>
 
+                          },
+
+                          {
+                            id:24,
+                            story: <p>
+
+                                     <b>UNESCO __ </b> has officially recognised Senegal as the origin of Jollof rice, also known as Ceebu jën in Senegal, settling a long-standing debate between West African nations Ghana, Nigeria and Senegal. The dish, which is a staple in West African cuisine, is made of rice and fish, accompanied by vegetables and sometimes tomatoes. 
+                                     According to research by The Conversation Africa, the origins of Jollof rice can be traced back to the entrenchment of colonial rule in West Africa between 1860 and 1940. During this period, French colonizers replaced food crops with broken rice imported from Indochina. Over time, broken rice became more prized by the Senegalese than whole rice grain and the dish known as Ceebu jën was born. 
+                                     The dish has become a source of pride and cultural identity for the Senegalese and has been recognised as an intangible heritage of humanity by UNESCO. This certification is expected to positively impact the economy, particularly in tourism, agriculture, fishing and catering.
+                                     <br />
+                                     <br />
+                                     In addition to its cultural significance, Jollof rice is also closely linked to a particular way of life and the consumption of the dish is strongly linked to ceremonial events and the aesthetics of presentation and service. The women of Saint Louis, a port city in northern Senegal, are known for their remarkable know-how in this area and have been credited with adding finesse and elegance to the dish.
+                                     <br />
+                                     <br />
+                                     The Senegalese version of Jollof rice, Ceebu jën, is now officially recognised by UNESCO as an intangible heritage of humanity, putting an end to the ongoing debate over its origins and solidifying Senegal's claim as the true home of Jollof rice.
+                                     <br />
+                                     <br />
+                                   </p>
                           }
                   ]
 
