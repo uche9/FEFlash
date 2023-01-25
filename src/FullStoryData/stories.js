@@ -801,7 +801,7 @@
                           {
                             id:25,
                             story: <p>
-                                      Davido  || Wizkid
+                                     <b>Davido  || Wizkid</b> 
                                       <br />
                                       <br /> 
                                       On Wednesday, 18th January 2023 Wizkid took to his Instagram page to make a shocking announcement that he would be going on tour with fellow megastar Davido. 
@@ -826,6 +826,127 @@
                                       At any rate, a joint tour from the two will be a historic moment for Nigerian and African music.
                                       <br />
                                       <br />
+                                   </p>
+                          },
+                          {
+                            id:26,
+                            story:<p>
+                                      FlexJobs is excited to announce its 10th annual Top 100 Companies to Watch for Remote Jobs list!
+                                      <br />
+                                      <br />
+                                      For over a decade, FlexJobs has tracked and analyzed remote job postings to help connect job seekers with remote career opportunities. And as the professional workforce continues to shift in preference for remote jobs, this list celebrates the companies embracing the present (and future) of work.
+                                      <br />
+                                      <br />
+                                      From 2021 to 2022, FlexJobs saw a 20% increase in the number of remote job listings on the site, compared with just 12% the previous year. And with the wider adoption of remote work came more variety in job titles and career levels. While a majority of positions were for experienced-level jobs (62%), manager and senior-level roles claimed 32% of the remote job listings. The remaining 6% of postings were attributed to entry-level jobs.
+                                      <br />
+                                      <br />
+                                      Liveops earned the number one spot on this year’s list, being recognized for providing “unparalleled” job flexibility and work-life balance. Other big-name companies on the list include Amazon, American Red Cross, PNC, TTEC, Williams-Sonoma, and Working Solutions.
+                                      <br />
+                                      <br />
+                                      The list also saw new companies recognized for embracing remote work, as well as companies with long-standing policies in place. Newcomers include Airbnb, Allstate, DoorDash, Lyft, and Reddit, while companies like CVS Health, Kelly, Parexel, SAP, and UnitedHealth Group made repeat appearances as long-term proponents of remote work, having made the list each year since 2014.
+                                      — Top Remote Career Categories
+                                      <br />
+                                      <br />
+                                      With remote work shifting from a pandemic-era policy to a permanent business solution throughout 2022, this year’s top career categories reflect the wide-scale adoption of remote work across various industries.
+                                      <br />
+                                      <br />
+                                      For anyone looking for remote work, these seven categories are ones to watch in 2023:
+                                    <ol>
+                                       <li>
+                                          Computer & IT
+                                       </li>
+                                       <li>
+                                           Marketing
+                                       </li>
+                                       <li>
+                                           Accounting & Finance
+                                       </li>
+                                       <li>
+                                          Project Management
+                                       </li>
+                                       <li>
+                                          Medical & Health
+                                       </li>
+                                       <li>
+                                          HR & Recruiting
+                                       </li>
+                                    </ol>                                          
+
+                                      Of the top career fields above, a few experienced significant growth in 2022. These include accounting & finance (31%), HR & recruiting (22%), and marketing (20%). Modest growth was also seen among computer & IT, project management, and medical & health. Customer service, though making it in the top seven, did experience a drop of 6% from 2021.
+                                      <br />
+                                      <br />
+                                      Other categories, although not in the top career list, also experienced significant growth between 2021 and 2022, seeing a rise in remote job listings. These include nonprofit & philanthropy (55%), communications (39%), and legal (33%). 
+                                      <br />
+                                      <br />
+                                      At the same time, some historically strong career categories didn’t see growth in 2022. These include sales, which stayed stagnant, and education & training, which fell 4%. 
+
+                                     for further reading: 
+                                     <a href='https://www.flexjobs.com/blog/post/100-top-companies-with-remote-jobs-2023/' target='_blank' rel="noreferrer">click here for more</a>                                 
+                                 
+                                 
+                                 </p>
+                          },
+
+                          {
+                            id:27,
+                            story:<p>
+                                   Countries like America, Qatar, Norway, etc., are on the list of the wealthiest countries in the world, but a small region remains on the top of this list. Gross Domestic Product per capita estimates the economy per person in a country. The most accurate data is expressed through this, but wealth distribution is not shown through GPD. To be at the top of the list, many things are considered, like price structure, per-person income, etc. In a rich country, if you want to rent an apartment, then it will cost 500 dollars per month, but in a poor country, you can rent a palace for the same price.
+                                   Grand Duchy of Luxembourg, a small country in Western Europe, is at the top of the list. It is a landlocked country which shares borders with Belgium, Germany and France. Luxembourgish is this country’s national language, but French and German are also used in administrative and Judicial matters. It is one of the smallest countries in Europe, with 2586 square kilometres of area. The population of this country is also very least in Europe. It is a developed country with the world’s top GDP per capita. This country is a founding partner of the European Union, OECD, United Nations and Benelux.
+                                   <br />
+                                  <br />
+                                   <b>Luxemburg</b>
+                                   <p className='container--image--item'>
+                                       <img className='image--item' 
+                                     src={require(`../images/image27/image27_1.png`)} style={{margin:'20px', width:'100%', aspectRatio:'2' }}  alt='headline_photo' 
+                                        />
+                                        </p>
+                                        
+                                   <br />
+                                  
+                                  Luxemburg being on the top of the list, has a GDP of 140,694 dollars per capita. It remains on this list due to its low population of 645,397. This country produces a large quantity of steel. Top companies Amazon and Skype have their offices here.
+                                  <br />
+                                  <br />
+                                  <b>Singapore</b>
+                                  
+                                  <p className='container--image--item'>
+                                       <img className='image--item' 
+                                     src={require(`../images/image27/image27_2.png`)} style={{margin:'20px', width:'100%', aspectRatio:'2' }}  alt='headline_photo' 
+                                        />
+                                  </p>
+                                  
+                                  Singapore is on second on this list, with a GDP per capita of 131,425. This country has very low tax rates, and also the headquarters of the Asia-Pacific Economic Corporation is here. The population of this country is 5,453,566. It is the richest country in Asia.
+                                  <br />
+                                  <br />
+                                  <b>Ireland</b>
+                                  
+                                  <p className='container--image--item'>
+                                       <img className='image--item' 
+                                     src={require(`../images/image27/image27_3.png`)} style={{margin:'20px', width:'100%', aspectRatio:'2' }}  alt='headline_photo' 
+                                        />
+                                  </p>
+                                  
+                                  The Republic of Ireland remains 3rd in this list but is first for foreign direct investment. Its per capita GDP is 131,034 of Ireland. This country concentrates on high-tech, life sciences, financial, etc. services for better development. It has the fastest-growing economy. The GDP of this country is just doubled in the past 10 years.
+                                  <br />
+                                  <br />
+                                  <b>Qatar</b>
+                                  
+                                  <p className='container--image--item'>
+                                       <img className='image--item' 
+                                     src={require(`../images/image27/image27_4.png`)} style={{margin:'20px', width:'100%', aspectRatio:'2' }}  alt='headline_photo' 
+                                        />
+                                  </p>
+                                  A country with Petroleum and natural gas helps in more than 70% of govt revenue. Qatar earns 85% from export, and it has 60% of the gross domestic product. It has 113,675 dollars per capita GDP with the second largest exporter of natural gas in the world.
+                                  <br />
+                                  <br />
+                                  <b>Switzerland</b>
+                                  <br />
+                                  <p className='container--image--item'>
+                                       <img className='image--item' 
+                                     src={require(`../images/image27/image27_5.png`)} style={{margin:'20px', width:'100%', aspectRatio:'2' }}  alt='headline_photo' 
+                                        />
+                                  </p>
+                                  
+                                  The fifth position in this list occupies by Switzerland, with 84,469 dollars per capita GDP. It has a tiny population and is the land of wealth, as many millionaires live here. It is a European country and is known for many inventions. Switzerland was established in 1948 and became developed in a short time.
                                    </p>
                           }
 

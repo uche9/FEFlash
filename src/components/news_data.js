@@ -292,6 +292,27 @@ import News from '../FullStoryData/News'
         author:'Adeayo Adebiyi',
         story:<News id={25}/>
       }, 
+      {
+        id:26,
+        region:'World',
+        niche:'Life_Style',
+        image: "image26.png",
+        headline:"Top 100 Companies to Watch for Remote Jobs in 2023",         
+        news_age: TimeStamp (new Date(2023,0,25,3,30,0)),
+        author:'Jessica Howington',
+        story:<News id={26}/>
+      },
+      {
+        id:27,
+        region:'World',
+        niche:'Economy',
+        image: "image27.png",
+        headline:"Richest Country in the World 2023",         
+        news_age: TimeStamp (new Date(2023,0,25,3,30,0)),
+        author:'Bhupender Kumar',
+        story:<News id={27}/>
+      },
+
 
     ];     
 
