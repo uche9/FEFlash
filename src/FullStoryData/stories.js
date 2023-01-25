@@ -797,7 +797,38 @@
                                      <br />
                                      <br />
                                    </p>
+                          },
+                          {
+                            id:25,
+                            story: <p>
+                                      Davido  || Wizkid
+                                      <br />
+                                      <br /> 
+                                      On Wednesday, 18th January 2023 Wizkid took to his Instagram page to make a shocking announcement that he would be going on tour with fellow megastar Davido. 
+                                      <br />
+                                      <br />
+                                      In the post on his Instagram story, Wizkid stated that "After my 'MLLE (More Love, Less Ego)' tour!! Davido and I going on tour! save your coins! I no wan hear pim".
+                                      <br />
+                                      <br />
+                                      The announcement comes as a surprise as fans never saw it coming.
+                                      Readers will recall that Wizkid postponed the release of his 5th album 'More Love, Less Ego' following the loss of Davido's son. The gesture was applauded by fans who admired the show of respect and support.
+                                      <br />
+                                      <br />
+                                      The announcement has sent fans into hysteria as they eagerly look forward to a joint performance from two of Africa's biggest acts.
+                                      <br />
+                                      <br />
+                                      Wizkid and Davido famously shared the stage at Wizkid's 2017 December concert where he brought Davido out as a special guest to perform 'FIA'.
+                                      <br />
+                                      <br />
+                                      The cost of seeing Wizkid and Davido together is surely not going to be cheap as Wizkid has advised fans to save their coins.
+                                      <br />
+                                      <br />
+                                      At any rate, a joint tour from the two will be a historic moment for Nigerian and African music.
+                                      <br />
+                                      <br />
+                                   </p>
                           }
+
                   ]
 
 

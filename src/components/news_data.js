@@ -282,16 +282,16 @@ import News from '../FullStoryData/News'
         story:<News id={24}/>
       },
 
-      /*{
+      {
         id:25,
         region:'Africa',
-        niche:'Life_Style',
+        niche:'Entertainment',
         image: "image25.png",
-        headline:"UNESCO names Senegal as the true home of Jollof Rice over Ghana and Nigeria",         
-        news_age: TimeStamp (new Date(2023,0,23,11,44,0)),
-        author:'Victor Oluwole',
+        headline:"Wizkid announces joint tour with Davido",         
+        news_age: TimeStamp (new Date(2023,0,25,2,30,0)),
+        author:'Adeayo Adebiyi',
         story:<News id={25}/>
-      }, */
+      }, 
 
     ];     
 
