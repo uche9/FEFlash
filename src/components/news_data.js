@@ -312,7 +312,51 @@ import News from '../FullStoryData/News'
         author:'Bhupender Kumar',
         story:<News id={27}/>
       },
+      
+      {
+        id:28,
+        region:'USA',
+        niche:'Business',
+        image: "image28.png",
+        headline:"How Microsoft could use ChatGPT to supercharge its products",         
+        news_age: TimeStamp (new Date(2023,0,26,14,30,0)),
+        author:'Samantha Murphy Kelly',
+        story:<News id={28}/>
+      },
 
+      {
+        id:29,
+        region:'USA',
+        niche:'Economy',
+        image: "image29.png",
+        headline:"US economy likely slowed but still posted solid growth in Q4",         
+        news_age: TimeStamp (new Date(2023,0,26,14,10,0)),
+        author:'PAUL WISEMAN',
+        story:<News id={29}/>
+      },
+
+      {
+        id:30,
+        region:'USA',
+        niche:'Education',
+        image: "image30.png",
+        headline:"30 Scholarships for African American and Black Students in 2022",         
+        news_age: TimeStamp (new Date(2023,0,26,14,40,0)),
+        author:'KELLY LAMANO',
+        story:<News id={30}/>
+      },
+
+      {
+        id:31,
+        region:'Nigeria',
+        niche:'Fashion',
+        image: "image31.png",
+        headline:"7 Fashion trends in Nigeria that topped the grid in 2022",         
+        news_age: TimeStamp (new Date(2023,0,26,15,10,0)),
+        author:'Asiat Jimoh',
+        story:<News id={31}/>
+      },
+     
 
     ];     
 
