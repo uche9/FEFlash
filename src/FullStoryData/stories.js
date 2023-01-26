@@ -1019,8 +1019,10 @@
 
                           {
                             id:30,
-                            strory:<p>
+                            story:<p>
                                       In the fall of 2019, Black students represented 12.7% of the total number of undergraduates in the United States. According to the Postsecondary National Policy Institute, this group of about two million African American undergraduates took out student loans at a much higher rate than their peers in other ethnic groups. Fortunately, scholarships like the ones below can help make higher education affordable. To help you in your scholarship search, we’ve compiled 30 great college scholarships for Black and African American students.
+                                          <br />
+                                          <br />
                                       Here are top 5 scholarships:
                                       <ol>
                                           <li>
@@ -1039,9 +1041,10 @@
                                                Sidney B. Williams Jr. Scholarship 
                                           </li>
                                       </ol>
-
-                                       for more information <a href="https://www.goingmerry.com/blog/african-american-scholarships/">click here</a>                                 
-                                   </p>
+                                     
+                                      for more information <a href="https://www.goingmerry.com/blog/african-american-scholarships/">click here</a>                                 
+                                   
+                                     </p>
                           },
 
                           {
