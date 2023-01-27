@@ -1121,13 +1121,17 @@
                             id:33,
                             story: <p>
                                       India has showcased its military might and cultural heritage in a colourful parade at a revamped ceremonial boulevard in New Delhi to mark Republic Day, the anniversary of the day the country’s constitution came into effect in 1950.
-
+                                       <br />
+                                       <br />
                                       Tens of thousands of people endured a winter chill and mist on Thursday as they gathered to watch the parade, where Egyptian President Abdel Fattah el-Sisi was a guest of honour.
-
+                                      <br />
+                                       <br />
                                       A 144-member band and marching contingent from the Egyptian Armed Forces also joined battalions of the Indian military and police in the parade.
-
+                                      <br />
+                                       <br />
                                       El-Sisi, in a blue suit and matching tie, was flanked by Indian President Droupadi Murmu and Prime Minister Narendra Modi, who wore a saffron-and-yellow–coloured turban.
-
+                                      <br />
+                                       <br />
                                       Many women, men, schoolchildren and folk dancers in colourful dresses performed cultural and fusion dances down the boulevard amid big cheers from the crowd.
                                       <p className='container--image--item'>
                                                 <img className='image--item' 
@@ -1140,7 +1144,8 @@
                            {
                             id:34,
                             story:<p>
-                                    <h6>Kylie Jenner and her dress with a lion-head</h6>
+
+                                    <h4> <b>PARIS, France __</b>Kylie Jenner and her dress with a lion-head</h4>
 
                                     <br />
                                     Kylie Jenner, one of the world’s most followed celebrities on Instagram, arrived at the Schiaparelli show, which opened the Couture Fashion Week, wearing a strapless black velvet gown. But more than anything else, it was the faux lion head affixed to the dress that went viral on social media.
@@ -1174,7 +1179,31 @@
                                    for more : <a href="https://www.lifestyleasia.com/bk/style/fashion/paris-fashion-week-2023-couture-highlights/" >click here</a>
                                  </p>
                            }
-
+                           ,
+                           {
+                            id:35,
+                            story: <p>
+                                        Novak Djokovic spoke, after brushing aside Andrey Rublev, of a desire to send a message to his remaining rivals. Although his formidable record at the Australian Open means it is scarcely needed with the Serbian aiming for an historic 10th title and a return to world No 1
+                                        <br />
+                                        <br />
+                                        Concerns over a hamstring injury appear to have receded, and a desire to stay on the front foot and avoid too much running has led to Djokovic crushing Alex De Minaur and Andrey Rublev in back-to-back matches for the loss of just 12 games in six sets.
+                                        <br />
+                                        <br />
+                                         <p className='container--image--item'>
+                                                <img className='image--item' 
+                                                    src={require(`../images/image35/image35_1.png`)} style={{margin:'20px', width:'50%', aspectRatio:'1' }}  alt='headline_photo' 
+                                                    
+                                                  />
+                                               <h6>Djokovic will take on American Tommy Paul for a spot in Sunday's final </h6>   
+                                          </p>        
+                                          "Playing against two guys that are really good players, in-form players, to beat them dominantly in three sets, is definitely something that I want in this moment, something that sends a message to all my opponents remaining in the draw," said the Serbian.
+                                          <br />
+                                          <br />
+                                          "With this kind of game, of course the confidence level rises. I feel good on the court, better and better as the tournament progresses. I've been in this situation so many times in my life, in my career, never lost a semi-final in (the) Australian Open. Hopefully, that will stay the same."
+                                          <br />
+                                          <br />
+                                      </p>
+                           }
                   ]
 
 

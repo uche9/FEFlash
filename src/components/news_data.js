@@ -383,10 +383,21 @@ import News from '../FullStoryData/News'
         region:'Europe',
         niche:'Fashion',
         image: "image34.png",
-        headline:"highlights from the Couture Fashion Week at PFW 2023",         
+        headline:"Highlights from the Couture Fashion Week at PFW 2023",         
         news_age: TimeStamp (new Date(2023,0,27,11,10,0)),
         author:'Manas Sen Gupta',
         story:<News id={34}/>
+      },
+
+      {
+        id:35,
+        region:'Australia',
+        niche:'Sports',
+        image: "image35.png",
+        headline:"Australian Open: Can anyone stop Novak Djokovic from claiming historic 10th title in Melbourne?",         
+        news_age: TimeStamp (new Date(2023,0,27,11,10,0)),
+        author:'Manas Sen Gupta',
+        story:<News id={35}/>
       },
 
 
