@@ -367,7 +367,19 @@ import News from '../FullStoryData/News'
         author:'Mercedes Ruehl',
         story:<News id={32}/>
       },
-     
+
+      {
+        id:33,
+        region:'Asia',
+        niche:'Politics',
+        image: "image33.png",
+        headline:"India’s 74th Republic Day celebrations",         
+        news_age: TimeStamp (new Date(2023,0,27,7,50,0)),
+        author:'AJ news',
+        story:<News id={33}/>
+      },                                                        
+
+
 
     ];     
 

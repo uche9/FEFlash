@@ -1110,6 +1110,22 @@
                                   However, analysts cautioned the Philippines economy could be hit by inflation even as they revised up growth forecasts. “High inflation — the headline rate reached 8.1 per cent year on year in December — will drag on the purchasing power of consumers,” research company Capital Economics said in a note.
 
                                   </p>
+                          },
+                          {
+                            id:33,
+                            story: <p>
+                                      India has showcased its military might and cultural heritage in a colourful parade at a revamped ceremonial boulevard in New Delhi to mark Republic Day, the anniversary of the day the country’s constitution came into effect in 1950.
+
+                                      Tens of thousands of people endured a winter chill and mist on Thursday as they gathered to watch the parade, where Egyptian President Abdel Fattah el-Sisi was a guest of honour.
+
+                                      A 144-member band and marching contingent from the Egyptian Armed Forces also joined battalions of the Indian military and police in the parade.
+
+                                      El-Sisi, in a blue suit and matching tie, was flanked by Indian President Droupadi Murmu and Prime Minister Narendra Modi, who wore a saffron-and-yellow–coloured turban.
+
+                                      Many women, men, schoolchildren and folk dancers in colourful dresses performed cultural and fusion dances down the boulevard amid big cheers from the crowd.
+
+                                      Howitzer guns, tanks, supersonic cruise missiles, anti-tank missiles and armoured personnel carriers were displayed at the parade, with hundreds of men from police and military battalions marching along. Stunt performers on motorbikes also joined from the presidential palace.
+                                   </p>
                           }
 
                   ]
