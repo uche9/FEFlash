@@ -356,6 +356,17 @@ import News from '../FullStoryData/News'
         author:'Asiat Jimoh',
         story:<News id={31}/>
       },
+
+      {
+        id:32,
+        region:'Asia',
+        niche:'Economy',
+        image: "image32.png",
+        headline:"Philippines records strongest economic growth in more than 40 years",         
+        news_age: TimeStamp (new Date(2023,0,27,7,50,0)),
+        author:'Mercedes Ruehl',
+        story:<News id={32}/>
+      },
      
 
     ];     

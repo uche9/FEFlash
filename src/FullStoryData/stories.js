@@ -1079,6 +1079,37 @@
                                           </p>
                                   Either the popular beauty ambassador, Enioluwa Adeoluwa changed the Crocs game in Nigeria with the ambassadorship deal or Crocs changed his; it is evident that something changed for both in 2022.
                               </p>
+                          },
+
+                          {
+                            id :32,
+                            story:<p>
+                                     
+                                   <h5>
+	                                  The Philippines’ economic planning secretary forecasts a further boost to the economy this year from the end of zero-Covid in China, saying it will ‘surely be a boon’ © Jam Sta Rosa/AFP/Getty Images
+                                   </h5>
+                                  
+                                  <b>Philipines __</b>
+                                  The Philippines has recorded its strongest economic growth in more than 40 years, defying a global slowdown and rising inflation after lifting all pandemic restrictions at the end of last year.
+
+                                  The south-east Asian economy grew at an annual rate of 7.2 per cent in the fourth quarter of 2022, beating economist expectations of about 6.5 per cent growth, according to Philippine Statistics Authority data. Full-year gross domestic product increased by 7.6 per cent, its strongest growth since 1976.
+
+                                  The Philippines, which relies largely on remittances from overseas workers and business outsourcing activities such as call centres, alongside farming and fishing, suffered one of Asia’s sharpest contractions during the pandemic because of strict lockdowns.
+
+                                  The government on Thursday attributed much of the growth to the country’s reopening in the final three months of the year, with the services industry, consumer and government spending, exports and imports all posting strong rises.
+
+                                  Economic planning secretary Arsenio Balisacan forecasted a further boost to the economy this year from the end of zero-Covid in China, saying it would “surely be a boon”.
+
+                                  The upbeat outlook of the Philippines and many of its regional emerging market neighbours including Indonesia and Malaysia contrasts sharply with that of developed nations.
+
+                                  Philippine president Ferdinand Marcos Jr, who attended the World Economic Forum in Davos last week, predicted the economy would keep growing at near 7 per cent this year.
+	                                US and European central bankers speaking at the conference instead vowed to “stay the course” on interest rate increases to cool down their economies and tame high inflation.
+
+                                  John Williams, president of the Federal Reserve Bank of New York, said he expected growth to slow to a “modest” pace of roughly 1 per cent in 2023, while Christine Lagarde, head of the European Central Bank, projected growth of 0.5 per cent.
+
+                                  However, analysts cautioned the Philippines economy could be hit by inflation even as they revised up growth forecasts. “High inflation — the headline rate reached 8.1 per cent year on year in December — will drag on the purchasing power of consumers,” research company Capital Economics said in a note.
+
+                                  </p>
                           }
 
                   ]
