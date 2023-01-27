@@ -1085,9 +1085,9 @@
                             id :32,
                             story:<p>
                                      
-                                   <h5>
+                                   <h6>
 	                                  The Philippines’ economic planning secretary forecasts a further boost to the economy this year from the end of zero-Covid in China, saying it will ‘surely be a boon’ © Jam Sta Rosa/AFP/Getty Images
-                                   </h5>
+                                   </h6>
                                   
                                   <b>Philipines __</b>
                                   The Philippines has recorded its strongest economic growth in more than 40 years, defying a global slowdown and rising inflation after lifting all pandemic restrictions at the end of last year.
