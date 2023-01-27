@@ -384,7 +384,7 @@ import News from '../FullStoryData/News'
         niche:'Fashion',
         image: "image34.png",
         headline:"Highlights from the Couture Fashion Week at PFW 2023",         
-        news_age: TimeStamp (new Date(2023,0,27,11,10,0)),
+        news_age: TimeStamp (new Date(2023,0,27,15,10,0)),
         author:'Manas Sen Gupta',
         story:<News id={34}/>
       },
@@ -395,8 +395,8 @@ import News from '../FullStoryData/News'
         niche:'Sports',
         image: "image35.png",
         headline:"Australian Open: Can anyone stop Novak Djokovic from claiming historic 10th title in Melbourne?",         
-        news_age: TimeStamp (new Date(2023,0,27,11,10,0)),
-        author:'Manas Sen Gupta',
+        news_age: TimeStamp (new Date(2023,0,27,21,10,0)),
+        author:'',
         story:<News id={35}/>
       },
 
