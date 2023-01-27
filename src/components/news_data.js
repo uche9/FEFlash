@@ -363,7 +363,7 @@ import News from '../FullStoryData/News'
         niche:'Economy',
         image: "image32.png",
         headline:"Philippines records strongest economic growth in more than 40 years",         
-        news_age: TimeStamp (new Date(2023,0,27,7,50,0)),
+        news_age: TimeStamp (new Date(2023,0,27,10,10,0)),
         author:'Mercedes Ruehl',
         story:<News id={32}/>
       },
@@ -374,7 +374,7 @@ import News from '../FullStoryData/News'
         niche:'Politics',
         image: "image33.png",
         headline:"India’s 74th Republic Day celebrations",         
-        news_age: TimeStamp (new Date(2023,0,27,7,50,0)),
+        news_age: TimeStamp (new Date(2023,0,27,10,19,0)),
         author:'AJ news',
         story:<News id={33}/>
       },                                                        
