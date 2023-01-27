@@ -378,7 +378,16 @@ import News from '../FullStoryData/News'
         author:'AJ news',
         story:<News id={33}/>
       },                                                        
-
+      {
+        id:34,
+        region:'Europe',
+        niche:'Fashion',
+        image: "image34.png",
+        headline:"highlights from the Couture Fashion Week at PFW 2023",         
+        news_age: TimeStamp (new Date(2023,0,27,11,10,0)),
+        author:'Manas Sen Gupta',
+        story:<News id={34}/>
+      },
 
 
     ];     

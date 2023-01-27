@@ -1129,10 +1129,51 @@
                                       El-Sisi, in a blue suit and matching tie, was flanked by Indian President Droupadi Murmu and Prime Minister Narendra Modi, who wore a saffron-and-yellow–coloured turban.
 
                                       Many women, men, schoolchildren and folk dancers in colourful dresses performed cultural and fusion dances down the boulevard amid big cheers from the crowd.
-
+                                      <p className='container--image--item'>
+                                                <img className='image--item' 
+                                                    src={require(`../images/image33/image33_1.png`)} style={{margin:'20px', width:'100%', aspectRatio:'2' }}  alt='headline_photo' 
+                                                  />
+                                          </p>
                                       Howitzer guns, tanks, supersonic cruise missiles, anti-tank missiles and armoured personnel carriers were displayed at the parade, with hundreds of men from police and military battalions marching along. Stunt performers on motorbikes also joined from the presidential palace.
                                    </p>
-                          }
+                          },
+                           {
+                            id:34,
+                            story:<p>
+                                    <h6>Kylie Jenner and her dress with a lion-head</h6>
+
+                                    <br />
+                                    Kylie Jenner, one of the world’s most followed celebrities on Instagram, arrived at the Schiaparelli show, which opened the Couture Fashion Week, wearing a strapless black velvet gown. But more than anything else, it was the faux lion head affixed to the dress that went viral on social media.
+                                     <br />
+                                     <br />
+                                  The dress she wore is one of the looks from the new collection and hadn’t even hit the runway when Jenner wore it.
+                                  <br />
+                                     <br />
+                                  “BEAUTY AND THE BEAST. thank you @danielroseberry and @schiaparelli for such a special morning. wow i loved wearing this faux art creation constructed by hand using manmade materials,” wrote Jenner on Instagram while sharing photos of herself in the dress.
+                                  <br />
+                                     <br />
+                                  Schiaparelli creative director Daniel Roseberry said that his collection was inspired by Dante’s Inferno.
+                                  <br />
+                                     <br />
+                                  The foam animal heads on the dresses that were presented were of a lion, a leopard and a she-wolf. According to Roseberry, they represented “lust, pride and avarice.”
+                                  <br />
+                                     <br />
+                                  Irina Shayk modelled the lion-head dress on the runway while Naomi Campbell walked in the she-wolf style on an all-black coat.
+                                         <p className='container--image--item'>
+                                                <img className='image--item' 
+                                                    src={require(`../images/image34/image34_2.png`)} style={{margin:'20px', width:'50%', aspectRatio:'1' }}  alt='headline_photo' 
+                                                    
+                                                  />
+                                                  <img  className='image--item' 
+                                                    src={require(`../images/image34/image34_1.png`)} style={{margin:'20px', width:'50%', aspectRatio:'1' }}  alt='headline_photo' 
+                                                    
+                                                  />
+                                          </p>
+                                          <br />
+                                     
+                                   for more : <a href="https://www.lifestyleasia.com/bk/style/fashion/paris-fashion-week-2023-couture-highlights/" >click here</a>
+                                 </p>
+                           }
 
                   ]
 
