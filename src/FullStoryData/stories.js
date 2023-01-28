@@ -1333,7 +1333,7 @@
                                       <br />
                                          <br />
                                       "With today's modest increase, we expect to pause rate hikes while we assess the impacts of the substantial monetary policy tightening already undertaken," he said. "To be clear, this is a conditional pause — it is conditional on economic developments evolving broadly in line with our … outlook.
-                                      <br />
+                                         <br />
                                          <br />
                                       "If we need to do more to get inflation to the two-per-cent target, we will."    
                                   </p>
@@ -1343,7 +1343,45 @@
                            {
                             id:39,
                             story: <p>
-
+                                       In a world full of more technology than ever before, and as the tech evolves, the need for humans to be involved is becoming less and less.
+                                       <br />
+                                         <br />
+                                       Google, Amazon, Microsoft, Meta, Twitter, Spotify and more big tech companies have all been making major cuts to its workforce.
+                                       One of the reasons for the layoffs is due to the major hiring sessions many companies had over the COVID-19 pandemic. With a higher demand for technology, companies were able to take on more workers.
+                                       <br />
+                                         <br />
+                                      Now that people are generally back to their ‘normal lives’, there is less of a need for workers.
+                                      <br />
+                                         <br />
+                                      Aaron Genest, SaskTech president, argues there is another reason people are being laid off.
+                                      “Most companies feel that there’s a looming recession,” Genest said. “How big, how deep how long does it last? We don’t know but we’re all positioning for it one way or another.”
+                                      <br />
+                                         <br />
+                                      For Saskatchewan tech companies however, Genest feels it’s a different story.
+                                      <br />
+                                         <br />
+                                      “We’re not the kind of companies that have scaled rapidly to meet the changes over the last few years, so we’re not seeing people shed the jobs in the same way,” he explained.
+                                      <br />
+                                         <br />
+                                      According to 2018 data, the tech sector in Saskatchewan spanned roughly 5,000 companies at the time.
+                                      <br />
+                                         <br />
+                                      Those companies, however, contributed nearly $5 billion to the provinces gross domestic product that year.
+                                      <br />
+                                         <br />
+                                      In 2023, many Saskatchewan tech companies feel there is still room to grow.
+                                      <br />
+                                         <br />
+                                      “I think we see it as an opportunity,” said Jordan McFarlen, the incubator manager for Saskatchewan tech company Cultivator.
+                                      <br />
+                                         <br />
+                                      “No doubt there will be challenges given the whole global economic scenario. But I think it’s a very opportunistic scenario for early-stage Sask. companies.”
+                                      <br />
+                                         <br />
+                                      While there any many jobs needed in the tech world, McFarlen believes there is still one everyone is searching for.
+                                      <br />
+                                         <br />
+                                      “People in those software engineer developer roles are still in high demand,” he said.
                                   </p>
                            }
                            ,

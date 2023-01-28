@@ -432,7 +432,17 @@ import News from '../FullStoryData/News'
         author:'Pete Evans',
         story:<News id={38}/>
       },
-
+      
+      {
+        id:39,
+        region:'Canada',
+        niche:'Business',
+        image: "image39.png",
+        headline:"Saskatchewan tech companies receive high interest despite layoffs from Meta, Google, others",         
+        news_age: TimeStamp (new Date(2023,0,28,4,21,0)),
+        author:'Andrew Benson',
+        story:<News id={39}/>
+      },
     ];     
 
    
