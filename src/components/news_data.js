@@ -422,6 +422,17 @@ import News from '../FullStoryData/News'
         story:<News id={37}/>
       },
 
+      {
+        id:38,
+        region:'Canada',
+        niche:'Business',
+        image: "image38.png",
+        headline:"Bank of Canada raises interest rate again — but hits 'pause' on any more for now",         
+        news_age: TimeStamp (new Date(2023,0,28,4,21,0)),
+        author:'Pete Evans',
+        story:<News id={38}/>
+      },
+
     ];     
 
    

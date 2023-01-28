@@ -1304,11 +1304,13 @@
                                         “The global economy is a volatile place right now and developments in China are a big part of that,” Chalmers said.
                                           <p className='container--image--item'>
                                                 <img className='image--item' 
-                                                    src={require(`../images/image37/image37_1.png`)} style={{margin:'20px', width:'50%', aspectRatio:'1' }}  alt='headline_photo' 
+                                                    src={require(`../images/image37/image37_1.png`)} style={{margin:'20px', width:'100%', aspectRatio:'2' }}  alt='headline_photo' 
                                                     
                                                   />
                                                 
                                           </p>
+
+
                                   </p>
                            }
                            ,
@@ -1316,7 +1318,24 @@
                            {
                             id:38,
                             story: <p>
-
+                                      <h6>Bank of Canada Governor Tiff Macklem says the central bank is going on 'pause' in its campaign of rate hikes, but he stresses it's a 'conditional' one. (Blair Gable/Reuters)</h6>
+                                      The Bank of Canada has raised its benchmark interest rate again, to 4.5 per cent.
+                                      <br />
+                                         <br />
+                                      The move was widely expected by economists as the bank tries to wrestle record-high inflation into submission.
+                                      <br />
+                                         <br />
+                                      It's the eighth time in less than a year that the bank has hiked its trendsetting rate — a move that will make borrowing money more expensive.
+                                      <br />
+                                         <br />
+                                      But at one quarter of a percentage point, it's also the smallest hike since March, and thus a sign that the bank may be done with hiking rates for the next little while. 
+                                      The bank said as much at a news conference following the announcement, with governor Tiff Macklem using the word "pause" to describe the bank's monetary policy strategy at this moment.
+                                      <br />
+                                         <br />
+                                      "With today's modest increase, we expect to pause rate hikes while we assess the impacts of the substantial monetary policy tightening already undertaken," he said. "To be clear, this is a conditional pause — it is conditional on economic developments evolving broadly in line with our … outlook.
+                                      <br />
+                                         <br />
+                                      "If we need to do more to get inflation to the two-per-cent target, we will."    
                                   </p>
                            }
                            ,
