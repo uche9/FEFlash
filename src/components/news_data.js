@@ -384,7 +384,7 @@ import News from '../FullStoryData/News'
         niche:'Fashion',
         image: "image34.png",
         headline:"Highlights from the Couture Fashion Week at PFW 2023",         
-        news_age: TimeStamp (new Date(2023,0,27,15,10,0)),
+        news_age: TimeStamp (new Date(2023,0,27,11,10,0)),
         author:'Manas Sen Gupta',
         story:<News id={34}/>
       },
@@ -395,11 +395,32 @@ import News from '../FullStoryData/News'
         niche:'Sports',
         image: "image35.png",
         headline:"Australian Open: Can anyone stop Novak Djokovic from claiming historic 10th title in Melbourne?",         
-        news_age: TimeStamp (new Date(2023,0,27,21,10,0)),
+        news_age: TimeStamp (new Date(2023,0,27,11,10,0)),
         author:'',
         story:<News id={35}/>
       },
+        
+      {
+        id:36,
+        region:'Australia',
+        niche:'Business',
+        image: "image36.png",
+        headline:"The top 5 tech companies to work for in Australia",         
+        news_age: TimeStamp (new Date(2023,0,28,2,20,0)),
+        author:'Denham Sadler',
+        story:<News id={36}/>
+      },
 
+      {
+        id:37,
+        region:'Australia',
+        niche:'Economy',
+        image: "image37.png",
+        headline:"Australia is banking on China’s economy to take off but headwinds are looming",         
+        news_age: TimeStamp (new Date(2023,0,28,3,20,0)),
+        author:'Peter Hannam',
+        story:<News id={37}/>
+      },
 
     ];     
 

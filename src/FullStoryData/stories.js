@@ -1203,7 +1203,141 @@
                                           <br />
                                           <br />
                                       </p>
+                           },
+                           {
+                            id:36,
+                            story:<p>
+                                    A number of global tech giants are among the best places to work at in Australia, according to a new report.
+
+                                    The Top Employers Institute has revealed its top ranking workplaces for 2023, with five tech companies scoring a place among the top companies in Australia.
+
+                                    The Institute’s program certifies companies based on the participation and results of their Human Resources Best Practices Survey, which covers six human resources domains and 20 topics including people strategy, work environment, talent acquisition, learning, diversity and inclusion, and wellbeing.
+
+                                    The top five tech companies to work for in Australia are:
+
+                                     <ol>
+                                          <li>
+                                               HCLTech
+                                          </li>
+                                          <li>
+                                          Infosys
+                                          </li>
+                                          <li>
+                                          WiPro Limited
+                                          </li>
+                                          <li>
+                                          Tata Consultancy Services
+                                          </li>
+                                          <li>
+                                          UST Global.
+                                          </li>
+                                     </ol>
+
+                                    The companies recognised as top employers performed particularly well during the pandemic and looked after their employees, Top Employers Institute CEO David Plink explained.
+                                      
+                                    “Exceptional times bring out the best in people and organisations,” he said.
+                                         <br />
+                                         <br />
+                                    “And we have witnessed this in our Top Employers Certification program this year: an exceptional performance from the certified Top Employers 2023.”
+
+                                    The 2023 iteration of the report acknowledges some of the companies that cared for their employees effectively during the pandemic and have maintained many of the same practices in recent months.
+                                    <br />
+                                         <br />
+                                    The Top Employers Institute has now certified more than 2,000 companies across more than 120 countries.
+
+                                    To be recognised, a company must first be evaluated against the organisation’s entry criteria. Once approved, the company takes part in the survey and is judged based on its people practices.
+                                    <br />
+                                         <br />
+                                    The survey covers six HR domains: steer, shape, attract, develop, engage and unit.
+
+                                    To be eligible, a company must have at least 250 local or 2,500 international employees, and advanced and formal human resources practices.
+                                    <br />
+                                         <br />
+                                    HCLTech is a global tech firm employing nearly 220,000 people across 54 countries, and with offices in Adelaide, Brisbane, Canberra, Melbourne, Perth and Sydney. The company assists other businesses with digital transformation, having capabilities across digital, engineering and cloud.
+
+                                    Included in its HR-focused policies is the employee-driven initiative TechBee.
+                                    <br />
+                                         <br />
+                                    This early-career program helps to train the next generation of tech workers, and is aimed at trying to attract workers with a non-tech background to reskill into the sector.
+
+                                    The company was named as a Top Employer in the Asia-Pacific, Europe, North America and globally.
+                                    <br />
+                                         <br />
+                                    HCLTech executive vice president and country manager Australia and New Zealand Michael Horton said being a top employer is all about putting the workers first.
+
+                                    “Our employees are at the heart of our business, and by putting them first, we’ve fostered a community where employees can grow as individuals and work as a collective,” Horton said.
+                                    <br />
+                                         <br />
+                                    Fellow Top Employer Infosys has 5500 employees across Australia and New Zealand, with offices in Melbourne, Brisbane, Parramatta and Perth.
+
+                                    WiPro has more than 2000 workers in Australia and offices in Sydney, Melbourne, Canberra, Brisbane and Perth.
+                                         <br />
+                                         <br />
+                                    Tata Consultancy has 20,000 associates in Australia, India and other regions to service the local market, while UST has offices in Sydney and Melbourne.
+                                  </p>
+                           },
+
+                           {
+                            id:37,
+                            story: <p>
+                                         <h6>The return of flights between China and Australia will be a good indication of the Chinese rebound and how it might lift the Australian economy, observers say. Photograph: Wu Hong/EPA</h6>
+                                         <br />
+                                         <br />
+                                         If you want a hint at the pace of China’s economic rebound and how it might lift Australia’s economy, look to the skies, says one seasoned Chinese-Australian businessman.
+                                         <br />
+                                         <br />
+                                        Watch in particular for the expansion of flights between the two nations, especially those run by China Eastern Airlines from Shanghai, China’s financial powerhouse.
+                                        <br />
+                                         <br />
+                                        “Of China’s ‘gold collar’ people – or high net worth individuals – 80% are from Shanghai,” said the businessman, who requested anonymity given his extensive links to Chinese firms in Australia. “That’s a signal. If China Eastern is not operating many flights, that means trouble.”
+                                        <br />
+                                         <br />
+                                        The early signs are promising. China Eastern had cut its pre-Covid schedule of 10 weekly flights from Shanghai to Sydney to as few as one, while its 10 runs to Melbourne were suspended entirely – but from 1 February, the Sydney to Shanghai route will be daily, a spokesperson said.
+                                        <br />
+                                         <br />
+                                        China’s economy, the world’s second largest, is critical for Australia’s fortunes and those of many of its neighbours. China buys about a third of Australia’s exports, equal to those shipped to Japan, South Korea, the US and India combined.
+                                        <br />
+                                         <br />
+                                        When China reported this week annual GDP growth had slowed to 3% in 2022, its second-worst result since the mid-1970s, the treasurer, Jim Chalmers, declared the slowdown “one of the major economic challenges facing Australia at the start of 2023”.
+                                        <br />
+                                         <br />
+                                        “The global economy is a volatile place right now and developments in China are a big part of that,” Chalmers said.
+                                          <p className='container--image--item'>
+                                                <img className='image--item' 
+                                                    src={require(`../images/image37/image37_1.png`)} style={{margin:'20px', width:'50%', aspectRatio:'1' }}  alt='headline_photo' 
+                                                    
+                                                  />
+                                                
+                                          </p>
+                                  </p>
                            }
+                           ,
+
+                           {
+                            id:38,
+                            story: <p>
+
+                                  </p>
+                           }
+                           ,
+
+                           {
+                            id:39,
+                            story: <p>
+
+                                  </p>
+                           }
+                           ,
+
+                           {
+                            id:40,
+                            story: <p>
+
+                                  </p>
+                           }
+
+                        
+                           
                   ]
 
 
