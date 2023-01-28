@@ -439,7 +439,7 @@ import News from '../FullStoryData/News'
         niche:'Business',
         image: "image39.png",
         headline:"Saskatchewan tech companies receive high interest despite layoffs from Meta, Google, others",         
-        news_age: TimeStamp (new Date(2023,0,28,4,21,0)),
+        news_age: TimeStamp (new Date(2023,0,28,4,56,0)),
         author:'Andrew Benson',
         story:<News id={39}/>
       },
