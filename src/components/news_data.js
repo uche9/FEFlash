@@ -416,6 +416,7 @@ import News from '../FullStoryData/News'
         region:'Australia',
         niche:'Economy',
         image: "image37.png",
+        image_tag:"",
         headline:"Australia is banking on China’s economy to take off but headwinds are looming",         
         news_age: TimeStamp (new Date(2023,0,28,3,20,0)),
         author:'Peter Hannam',
@@ -427,6 +428,7 @@ import News from '../FullStoryData/News'
         region:'Canada',
         niche:'Business',
         image: "image38.png",
+        image_tag:"",
         headline:"Bank of Canada raises interest rate again — but hits 'pause' on any more for now",         
         news_age: TimeStamp (new Date(2023,0,28,4,21,0)),
         author:'Pete Evans',
@@ -438,10 +440,44 @@ import News from '../FullStoryData/News'
         region:'Canada',
         niche:'Business',
         image: "image39.png",
+        image_tag:"",
         headline:"Saskatchewan tech companies receive high interest despite layoffs from Meta, Google, others",         
         news_age: TimeStamp (new Date(2023,0,28,4,56,0)),
         author:'Andrew Benson',
         story:<News id={39}/>
+      },
+      {
+        id:40,
+        region:'Africa',
+        niche:'Business',
+        image: "image40.png",
+        image_tag:"Oil Rig",
+        headline:"Tanzania joins the list of African countries to sign an oil deal in the new year ",         
+        news_age: TimeStamp (new Date(2023,0,30,10,40,0)),
+        author:'Chinedu Okafor',
+        story:<News id={40}/>
+      },
+      {
+        id:41,
+        region:'Africa',
+        niche:'Technology',
+        image: "image41.png",
+        image_tag:"",
+        headline:"Africa Tech Summit Returns To Nairobi, February 2023",         
+        news_age: TimeStamp (new Date(2023,0,30,11,6,0)),
+        author:'Simon Cocking',
+        story:<News id={41}/>
+      },
+      {
+        id:42,
+        region:'Africa',
+        niche:'Technology',
+        image: "image42.png",
+        image_tag:"WADEMOS delegation with representatives of the ECOWAS Department of Political Affairs, Peace and Security, in Abuja, Nigeria.",
+        headline:"Africa Tech Summit Returns To Nairobi, February 2023",         
+        news_age: TimeStamp (new Date(2023,0,30,11,6,0)),
+        author:'Simon Cocking',
+        story:<News id={42}/>
       },
     ];     
 

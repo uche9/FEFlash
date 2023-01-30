@@ -21,6 +21,7 @@ export default function News({id}){
             <br />
                 <div className='news--body' >
                       <img className='image--item' src={require(`../images/image${id}/${news_data[id-1].image}`)} style={{marginBottom:'10px', width:'100%', aspectRatio:'2' }}  alt='headline_photo' />
+                            <div>{news_data[id-1].image_tag}</div>
                             <br />
                             <br />
                             

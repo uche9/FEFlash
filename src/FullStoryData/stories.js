@@ -1389,11 +1389,106 @@
                            {
                             id:40,
                             story: <p>
-
+                                      <b>Tanzania</b>
+                                      The government of Tanzania very recently signed a Memorandum of Understanding (MoU) with a United Arab Emirates (UAE) firm for the construction of petroleum receiving and storage infrastructures. 
+                                      <br />
+                                      <br />
+                                      This deal was brokered yesterday between the Tanzanian Ministry of Energy and representatives of the Emirates National Oil Company Group (ENOC).
+                                      <br />
+                                      <br />
+                                      During the signing, the minister for Energy, Mr January Makamba, noted that one of the major issues that would be addressed by the commissioning of this project is the long waiting time for offloading of oil products, especially on transit to other East African countries. He mentioned that shipping delay could persist more than 2 weeks, which often triggers an increase in the product’s price.
+                                      <br />
+                                      <br />
+                                      “The current Petroleum Act requires the country to have enough petrol for utilization for 15 days, but currently the storage enables us to sustain for 30 consecutive days. Much should be done to increase the country’s storage capacity,” the minister said.
+                                      <br />
+                                      <br />
+                                      The minister also made mention of how the ongoing war between Russia and Ukraine is affecting the energy market, and noted that now is as good a time as any to embark on such a project. 
+                                      Commenting on the project, the chief executive officer of the ENOC Group, Mr Saif Humaid Al promised to work closely with the Tanzanian government to mitigate some of the challenges facing the country’s energy sector.
+                                      <br />
+                                      <br />
+                                      “The current infrastructure will help us in the estimation and negotiation processes with the government. We have the experience to carry such projects to other countries like Morocco, Djibouti, Malaysia, and Dubai,” he said.
+                                      <br />
+                                      <br />
+                                      So far in the first month of the new year, a number of oil deals have been successfully negotiated between African countries and foreign oil firms. Countries such as Algeria, Libya, and Uganda have made major strides in their oil sector based on these new deals.
+                                      <br />
+                                      <br />
                                   </p>
-                           }
+                           },
 
-                        
+                           {
+                            id:41,
+                            story:<p>
+                                   <b>NAIROBI , Kenya</b>
+                                   <br />
+                                   <br />
+                                   Africa Tech Summit, the leading tech conference focused on connecting businesses and driving investments within Africa’s tech ecosystem, will host its fifth edition on the 15th to 16th of February 2023 at the Sarit Expo Centre in Nairobi.
+                                   <br />
+                                   <br />
+                                  “After a sold-out out Summit in 2022, we are excited to welcome back 1000+ tech leaders, investors, and international players in Nairobi for two days. This year’s Africa Tech Summit will feature 150 speakers across two stages, masterclass sessions, an exhibition and multiple networking events to drive business and investment forward,” said Andrew Fassnidge, Director, Africa Tech Summit.
+                                  Africa Tech Summit Returns To Nairobi, February 2023
+                                  <br />
+                                   <br />
+                                  With Africa’s tech ecosystem projected to grow from an estimated $115bn to $712bn by 2050 according to Endeavor Nigeria’s recent report, the Summit again connects tech leaders and stakeholders, including investors, corporates, mobile operators, fintech, DeFi and crypto ventures, start-ups, developers, regulators, and policymakers to do business across the continent.
+                                  <br />
+                                   <br />
+                                   
+                                  The 2023 flagship summit hosts three tracks; the Africa Money &amp; DeFi Summit, the Africa Startup Summit and the Africa Mobile &amp; App Summit, which brings together tech players from across the continent. As the Fintech space continues to experience 20 per cent growth year on year, with the market estimated to reach $40bn by 2025 according to MasterCard, the Africa Money and DeFi Summit will continue to uncover new opportunities in FinTech, Web3, and Decentralized Finance (DeFi).
+                                  The Africa Startup Summit, which connects tech startups with investors and corporates, will unpack opportunities and challenges within the ecosystem while showcasing leading ventures.
+                                  <br />
+                                   <br />
+                                  The Africa Mobile App Summit will explore new technologies and solutions in the African mobile ecosystem and share insights on the future of mobile growth and trends in Africa. Applications for the fifth edition of Pitch Live are now open, with ten African startups selected to pitch their company and solution on stage to an audience of investors and corporates. Applications are open until January 16th and are accepted and reviewed on a rolling basis
+                                  <p className='container--image--item'>
+                                                <img className='image--item' 
+                                                    src={require(`../images/image41/image41_1.png`)} style={{margin:'20px', width:'100%', aspectRatio:'2' }}  alt='headline_photo' 
+                                                    
+                                                  />
+                                                
+                                          </p>
+                                  <br />
+                                   <br />
+                                 <p><b> ABOUT AFRICA TECH SUMMIT NAIROBI </b></p>
+
+                                 Africa Tech Summit Nairobi (ATSNBO) is a leading African tech event providing insight and networking with the African tech ecosystem. ATSNBO brings together tech leaders, MNOs, banks, international investors, entrepreneurs, governments, trade bodies, media and leading ventures to drive investment and business in African tech.
+                                 </p>
+                           }
+                           ,
+
+                           {
+                            id:42,
+                            story:<p>
+                                     
+                                 </p>
+                           }
+                           ,
+
+                           {
+                            id:43,
+                            story:<p>
+
+                                 </p>
+                           }
+                           ,
+
+                           {
+                            id:44,
+                            story:<p>
+
+                                 </p>
+                           },
+
+                           {
+                            id:45,
+                            story:<p>
+
+                                 </p>
+                           },
+
+                           {
+                            id:46,
+                            story:<p>
+
+                                 </p>
+                           }
                            
                   ]
 
