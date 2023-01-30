@@ -471,12 +471,12 @@ import News from '../FullStoryData/News'
       {
         id:42,
         region:'Africa',
-        niche:'Technology',
+        niche:'Politics',
         image: "image42.png",
         image_tag:"WADEMOS delegation with representatives of the ECOWAS Department of Political Affairs, Peace and Security, in Abuja, Nigeria.",
-        headline:"Africa Tech Summit Returns To Nairobi, February 2023",         
-        news_age: TimeStamp (new Date(2023,0,30,11,6,0)),
-        author:'Simon Cocking',
+        headline:"Nigeria’s elections critical to Liberian, Sierra Leonean 2023 polls – West African coalition",         
+        news_age: TimeStamp (new Date(2023,0,30,11,36,0)),
+        author:'Premium Times ng',
         story:<News id={42}/>
       },
     ];     

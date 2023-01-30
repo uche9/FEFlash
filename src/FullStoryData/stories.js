@@ -1444,10 +1444,25 @@
                                                   />
                                                 
                                           </p>
+                                  A regional coalition of pro-democracy civil society organisations has said Nigeria’s general elections have implications for similar polls taking place in two West African countries within the year. The two other West African countries are Sierra Leone and Liberia.
                                   <br />
                                    <br />
+                                  The West Africa Democracy Solidarity Network (WADEMOS) said this on Friday during its four-day official visit to Nigeria. The coalition highlighted areas the country needed to improve on to achieve credible polls.
+                                  <br />
+                                   <br />
+                                  Nigeria holds its presidential and National Assembly elections on 25 February and governorship elections in various states on 11 March.
+                                  <br />
+                                   <br />
+                                  Sierra Leone queues behind Nigeria as it holds its own elections in June, while Liberia will follow suit in October.
+                                  <br />
+                                   <br />
+                                  Addressing journalists in Abuja, the Nigerian capital, on Friday, the leader of the WADEMOS delegation, Kojo Asante, said the Nigerian election “is particularly important for the entire sub-region as it sets the tone for subsequent elections in Sierra Leone (June 2023) and Liberia (October 2023).”
+                                  <br />
+                                   <br />
+                                  This, according to Mr Asante, necessitated the need to solidarize with civil society, especially the WADEMOS members in Nigeria, assess the level of preparedness of key electoral stakeholders towards the elections, and offer recommendations to key stakeholders for redress on challenges identified.
                                  <p><b> ABOUT AFRICA TECH SUMMIT NAIROBI </b></p>
-
+                                 <br />
+                                   <br />
                                  Africa Tech Summit Nairobi (ATSNBO) is a leading African tech event providing insight and networking with the African tech ecosystem. ATSNBO brings together tech leaders, MNOs, banks, international investors, entrepreneurs, governments, trade bodies, media and leading ventures to drive investment and business in African tech.
                                  </p>
                            }
@@ -1456,7 +1471,42 @@
                            {
                             id:42,
                             story:<p>
-                                     
+                                     A regional coalition of pro-democracy civil society organisations has said Nigeria’s general elections have implications for similar polls taking place in two West African countries within the year. The two other West African countries are Sierra Leone and Liberia.
+                                      <br />
+                                      <br />
+                                    The West Africa Democracy Solidarity Network (WADEMOS) said this on Friday during its four-day official visit to Nigeria. The coalition highlighted areas the country needed to improve on to achieve credible polls.
+                                    <br />
+                                      <br />
+                                    Nigeria holds its presidential and National Assembly elections on 25 February and governorship elections in various states on 11 March.
+                                    <br />
+                                      <br />
+                                    Sierra Leone queues behind Nigeria as it holds its own elections in June, while Liberia will follow suit in October.
+                                    <br />
+                                      <br />
+                                    Addressing journalists in Abuja, the Nigerian capital, on Friday, the leader of the WADEMOS delegation, Kojo Asante, said the Nigerian election “is particularly important for the entire sub-region as it sets the tone for subsequent elections in Sierra Leone (June 2023) and Liberia (October 2023).”
+                                    <br />
+                                      <br />
+                                    This, according to Mr Asante, necessitated the need to solidarize with civil society, especially the WADEMOS members in Nigeria, assess the level of preparedness of key electoral stakeholders towards the elections, and offer recommendations to key stakeholders for redress on challenges identified.
+                                    <p className='container--image--item'>
+                                                <img className='image--item' 
+                                                    src={require(`../images/image42/image42_1.png`)} style={{margin:'20px', width:'100%', aspectRatio:'2' }}  alt='headline_photo' 
+                                                  />
+                                                    WADEMOS delegation meeting with Anthony Okechukwu Ojukwu Esq., Executive Secretary of the Nigeria Human Rights Commission, in Abuja, Nigeria 
+                                          </p>
+
+                                          <h3>Assurance, progress</h3> 
+
+                                          He said the delegation “received strong assurance from INEC on its preparedness towards the conduct of the election” and lauded the deployment of technology for the conduct of the elections.
+                                          <br />
+                                          <br />
+                                          He also noted, “a significant increase in public interest and enthusiasm in the election was observed with the large number of new voters that were registered in the mop-up exercise, and this is encouraging particularly among young people”.
+                                          <br />
+                                          <br />
+                                          He lauded the “huge voting community” of 48 million out of the total 92.3 million registered to vote in the upcoming elections.
+                                          <h3>Issues</h3>
+                                          
+                                          
+                                          Weeks before the elections, the WADEMOS delegation has identified a “long-running incidence of fuel scarcity” as a major threat to the “deployment of materials and logistics ahead of the election”.
                                  </p>
                            }
                            ,
