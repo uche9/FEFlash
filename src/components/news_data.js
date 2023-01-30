@@ -479,6 +479,41 @@ import News from '../FullStoryData/News'
         author:'Premium Times ng',
         story:<News id={42}/>
       },
+
+      {
+        id:43,
+        region:'Nigeria',
+        niche:'Business',
+        image: "image43.png",
+        image_tag:"CBN Governor, Godwin Emefiele.",
+        headline:"New naira: Anger spreads over scarcity, Reps oppose CBN extension",         
+        news_age: TimeStamp (new Date(2023,0,30,13,10,0)),
+        author:'Friday Olokor, Dirisu Yakubu, Sami Olatunji, Deborah Tolu-Kolawole, Solomon Odeniyi, Lilian Ukagwu, Nathaniel Shaibu, Gift Habib, Edidiong Ikpoto, Anthony Ufoh, Anozie Egole, Damilola Aina, Godwin Isenyo, Tunde Oyekola ',
+        story:<News id={43}/>
+      },
+      {
+        id:44,
+        region:'Nigeria',
+        niche:'Education',
+        image: "image44.png",
+        image_tag:"Stanbic IBTC Bank",
+        headline:"Stanbic IBTC Trustees restates commitment to education",         
+        news_age: TimeStamp (new Date(2023,0,30,13,10,0)),
+        author:'Tomiwa Ajibola',
+        story:<News id={44}/>
+      },
+
+      {
+        id:45,
+        region:'Asia',
+        niche:'Technology',
+        image: "image45.png",
+        image_tag:"Stanbic IBTC Bank",
+        headline:"Southeast Asia Startup Ecosystem Continues to Prosper Post-Pandemic",         
+        news_age: TimeStamp (new Date(2023,0,30,13,24,0)),
+        author:'Hamid Ganji',
+        story:<News id={45}/>
+      },
     ];     
 
    

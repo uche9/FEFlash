@@ -1505,7 +1505,6 @@
                                           He lauded the “huge voting community” of 48 million out of the total 92.3 million registered to vote in the upcoming elections.
                                           <h3>Issues</h3>
                                           
-                                          
                                           Weeks before the elections, the WADEMOS delegation has identified a “long-running incidence of fuel scarcity” as a major threat to the “deployment of materials and logistics ahead of the election”.
                                  </p>
                            }
@@ -1514,7 +1513,41 @@
                            {
                             id:43,
                             story:<p>
-
+                                    The House of Representatives has rejected the February 10 deadline for the phasing out of old currency notes announced by the Central Bank of Nigeria on Sunday.
+                                     <br />
+                                     <br />
+                                    The House of Representatives Ad hoc Committee on New Naira Re-design and Naira Swap Policy on Sunday described the new date as a mere political gimmick to further deceive Nigerians and worsen their economic and social livelihood.
+                                    <br />
+                                    <br />
+                                    The development came as anger spread across the country over the scarcity of the new notes with several bank customers becoming stranded due to lack of access to the new notes. Retailers and traders have been rejecting the old notes amid long queues at ATM galleries across the country.
+                                    <br />
+                                     <br />
+                                    However, announcing the new deadline for the phasing out of the old N1,000, N500 and N200 notes on Sunday, the CBN Governor, Godwin Emefiele, said the President, Major General Muhammadu Buhari (retd.), gave permission for the deadline to be extended to February 10 after his recent meeting with him.
+                                    He also gave additional seven days to enable Nigerians to deposit their old naira notes after it ceases to be legal tender on February 10.
+                                    <br />
+                                     <br />
+                                    The PUNCH reported that the CBN had earlier fixed January 31 as the deadline for the exchange of old N1,000, N500 and N200 notes.
+                                    <br />
+                                     <br />
+                                    Before extending the deadline, the apex bank had refused to shift grounds despite coming under severe criticisms and significant pressure from the National Assembly, politicians, banks, customers, and key stakeholders.
+                                    The CBN governor had also failed to appear before the House four times, prompting the Speaker of the House of Representatives, Femi Gbajabiamila, Tuesday, to declare his readiness to issue a warrant of arrest against him if he fails to appear before its committee last Thursday.
+                                    <br />
+                                     <br />
+                                    Gbajabiamila said the lawmakers would reconvene on Tuesday (tomorrow) to take an action against Emefiele and other bank chiefs who failed to honour the house’s summons.
+                                    <br />
+                                     <br />
+                                    <h3>CBN extends deadline</h3>
+                                    
+                                    In his statement, however, the CBN governor stressed that the currency redesign programme was necessary to enable more efficient monetary policy decisions alongside curtailing banditry and ransom-taking.
+                                    <br />
+                                     <br />
+                                    Emefiele said that for 19 years, the CBN hadn’t re-design the naira, whereas, he said, this should normally have been done within a five to eight years window.
+                                    <br />
+                                     <br />
+                                    Enumerating the merits and benefits of the re-design, Emefiele said, “Our aim is mainly to make our Monetary Policy Decisions more efficacious and like you can see; we’ve started to see inflation trending downwards and exchange rates relatively stable.
+                                    <br />
+                                     <br />
+                                    ‘’Secondly, we aim to support the efforts of our Security agencies in combating banditry and ransom-taking in Nigeria through this program and we can see that the military is making good progress in this important task in Nigeria.”
                                  </p>
                            }
                            ,
@@ -1522,14 +1555,54 @@
                            {
                             id:44,
                             story:<p>
-
+                                   Stanbic IBTC Trustees Limited, through the Stanbic IBTC Education Trust (SET), has made assisting Nigerian parents and guardians secure their children and wards’ academic future one of its top priorities.
+                                   SET is a flexible and easy investment plan with long-term benefits that support parents and guardians striving to provide quality education for their children and wards.
+                                   <br />
+                                     <br />
+                                   Speaking about the positive impact of SET on the Nigerian child, Mr. Charles Omoera, Chief Executive, Stanbic IBTC Trustees Limited, said the organisation understands the significant impact of quality education on every child and the positive effect it will have in shaping their future. 
+                                   Omoera urged parents and guardians to put in place SET for their children and wards, to help them address any adverse circumstances likely to halt their education.
+                                   <br />
+                                     <br />
+                                   He stated that parents and guardians must always strive to give their children and wards quality education, to position them for rare opportunities attached to the benefits of having quality education.
+                                   <br />
+                                     <br />
+                                   With SET, parents and guardians can ensure the payment of their children and wards’ school fees, as education related expenses are directly made to the institutions of learning, from elementary to tertiary levels. 
+                                   This action ensures that unforeseeable events do not cause a disruption in their education, which may negatively impact their future. Education trust funds are invested in conservative type instruments and professionally managed and administered by a reputable Corporate Trustee and Fund Manager.
+                                   <br />
+                                     <br />
+                                   Parents and guardians can also nominate their children and wards’ SET accounts as beneficiary for their life insurance policies. A clear example is the Group Life Insurance Policy. Situations like this would ensure that the portion allocated to each child’s SET account is received and utilised for the child’s education. This has proven to be extremely beneficial if the child is a minor (under 18 years of age) or still in school.
                                  </p>
                            },
 
                            {
                             id:45,
                             story:<p>
+                                   
+                                   When it comes to launching a startup, most founders think they should reside in the United States, Silicon Valley, in particular, to have a successful business. While being in Silicon Valley provides excellent access to key people and companies, its fierce competition and fast-paced environment can soon kill the dreams of having a startup.
+                                   <br />
+                                     <br />
+                                   But there are other regions in the world that might not be as fancy as Silicon Valley but have a remarkable potential for growth. Southeast Asia is one of them.
+                                   The region consists of 11 countries. It is home to over 680 million people and over 400 million internet users- nearly 70% of the population.
+                                   <br />
+                                     <br />
+                                  As per a report by Google, Temasek Holdings, and Bain & Company, as many as 40 million people in six countries across the region — Singapore, Malaysia, Indonesia, the Philippines, Vietnam, and Thailand — came online for the first time in 2020. The report predicts that the region’s internet economy can cross $300 billion by 2025.
+                                  <br />
+                                     <br />
+                                  As the region was preparing for a new economic boom phase, the Covid-19 pandemic arrived. Southeast Asia was walloped by Covid-19. Hundreds of thousands of people died, and millions were affected. According to Asian Development Bank, Covid-19 pushed 4.7 million people into extreme poverty across Southeast Asia and removed 9.3 million jobs in the region.
+                                  The region’s economy is recovering and adjusting to the new normal. If you leave aside the devastating impacts of Covid-19 on the economy and people, this pandemic was able to change the prospects of startups in Southeast Asia.
+                                  <br />
+                                     <br />
+                                  Even before the pandemic began, Southeast Asia startups were thriving and could collect large checks from investors. According to Jungle Ventures, Southeast Asia’s technology startups had a combined valuation of $340 billion in 2020. This amount can triple by 2025. Also, Southeast Asia’s startups raised a record $6 billion in the first quarter of 2021.
+                                  <br />
+                                     <br />
+                                  Venture capital (VC) investment is the primary funding source for regional startups. In 2010, the VC investment in Southeast Asia startups was just $100 million. However, this amount could reach $9.6 billion in 2018. The number is growing year by year.
+                                  <br />
+                                     <br />
+                                  <h3>The pandemic has significantly increased the demand for access to digital services.</h3>
 
+                                  The Pandemic expansion and lockdowns led to skyrocketing usage of digital services and the creation of new startups. For example, Yahoo reports that Vietnam has added 8 million new digital consumers, with 55% of them coming from non-metro areas between the start of the pandemic and the first half of 2021.
+
+                                  Also, between the start of the pandemic and up till the first half of 2021, Indonesia could add 21 million new digital consumers, of which 72% are from non-metro areas.
                                  </p>
                            },
 
