@@ -508,7 +508,7 @@ import News from '../FullStoryData/News'
         region:'Asia',
         niche:'Technology',
         image: "image45.png",
-        image_tag:"Stanbic IBTC Bank",
+        image_tag:"",
         headline:"Southeast Asia Startup Ecosystem Continues to Prosper Post-Pandemic",         
         news_age: TimeStamp (new Date(2023,0,30,13,24,0)),
         author:'Hamid Ganji',
