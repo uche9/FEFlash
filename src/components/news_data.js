@@ -534,9 +534,32 @@ import News from '../FullStoryData/News'
         image: "image48.png",
         image_tag:"",
         headline:"What should be the top priority for Africa in 2023?",         
-        news_age: TimeStamp (new Date(2023,0,31,11,8,0)),
+        news_age: TimeStamp (new Date(2023,0,31,14,8,0)),
         author:' NICOLE WINFIELD, JEAN-YVES KAMAKE and NQOBILE NTSHANGASE',
         story:<News id={48}/>
+      },
+
+      {
+        id:49,
+        region:'USA',
+        niche:'Entertainment',
+        image: "image49.png",
+        image_tag:"",
+        headline:"Trevor Noah returns as Grammy host with comfort, nervousness",         
+        news_age: TimeStamp (new Date(2023,0,31,14,8,0)),
+        author:'JONATHAN LANDRUM Jr.',
+        story:<News id={49}/>
+      },
+      {
+        id:50,
+        region:'USA',
+        niche:'Entertainment',
+        image: "image50.png",
+        image_tag:"",
+        headline:"After Tesla price cut, Ford follows suit with Mustang Mach-E",         
+        news_age: TimeStamp (new Date(2023,0,31,14,8,0)),
+        author:'JONATHAN LANDRUM Jr.',
+        story:<News id={50}/>
       },
     ];     
 

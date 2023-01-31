@@ -1696,16 +1696,95 @@
                            {
                             id:49,
                             story:<p>
-
+                                    <b>LOS ANGELES, USA _</b> Trevor Noah feels more comfortable hosting the Grammy Awards for a third-straight year, but the former “The Daily Show” host still has some nervousness about leading the ceremony with big-time acts like Beyoncé, Adele and Harry Styles looking on.
+                                    <br />
+                                        <br />
+                                      “The nerves come in because you’re standing in front of not just some of the best, but some of the biggest performers in the world,” said the Emmy winner. Noah expects his diligent preparation to get him through Sunday’s show.
+                                      <br />
+                                        <br />
+                                      “Nerves are part of what I do,” the comedian said.
+                                      <br />
+                                        <br />
+                                      Noah returns for his third hosting stint at the Grammys, which airs live from Crypto.com Arena on Sunday on CBS and Paramount+. The ceremony returns to Los Angeles after relocating to Las Vegas for the first-time ever because of rising COVID-19 cases and omicron variant.
+                                      <br />
+                                        <br />
+                                      “I was relieved Trevor came back because it makes my job more enjoyable and easier,” said Ben Winston, the show’s executive producer. He called Noah an “absolute pro” who he said can pivot gracefully at any moment on a night celebrating music’s best.  
+                                      Noah said each year of hosting the Grammys has offered a different experience because of the logistical challenges stemmed from the pandemic. But he said the intimate but socially-distanced in-person award show in 2021 helped him build a rapport with music stars — especially when telling his jokes.
+                                      <br />
+                                        <br />
+                                      Last year’s ceremony in Las Vegas was a hybrid model that included fans.
+                                      <br />
+                                        <br />
+                                      “Every year, I notice that I develop a different rapport with the people in the room,” he said. “That opens you up to a few more jokes and a few more conversations in a way where people understand the context of who you are in relation to them. It means you get to have a little bit of fun without anybody feeling like you’re dunking on them.”
                                   </p>
                            },
                            {
                             id:50,
                             story:<p>
 
+                                    <b>DETROIT , USA __</b>Ford is cutting prices on its Mustang Mach-E electric SUV by as much as $6,000 just weeks after market leader Tesla took similar steps.
+                                    <br />
+                                        <br />
+                                    The Detroit automaker is increasing production of the Mach-E this year and said it is taking advantage of streamlined costs to reduce prices across the board, it said Monday.
+                                    <br />
+                                        <br />
+                                    The cut comes just over two weeks after Tesla Inc. dropped prices 6% to nearly 20% in the United States on most of its models in an effort to bolster demand and raise market share.
+                                    <br />
+                                        <br />
+                                        <p className='container--image--item'>
+                                                <img className='image--item' 
+                                                    src={require(`../images/image50/image50_1.png`)} style={{margin:'20px', width:'100%', aspectRatio:'2' }}  alt='headline_photo' 
+                                                    
+                                                  />
+                                                  <h4>2023 Ford Mustang Mach-E SUV | Ford.com</h4>
+                                        </p>
+                                    Ford’s maneuver will almost certainly force other automakers to trim prices as well, touching off a bit of a price war for electric vehicles, said Jeff Schuster, president of global forecasting for LMC Automotive, a Detroit-area consulting firm.
+                                    <br />
+                                        <br />
+                                    “To remain price competitive to consumers, it’s going to require a response from anyone who wants to play in this area,” he said.
+                                    <br />
+                                        <br />
+                                    However, Schuster says he doesn’t see an all-out price war that brings prices down even more. Automakers will try to protect profit margins on EVs as their share of the U.S. market keeps growing, he said. 
+                                    Although Ford didn’t mention Tesla in its statement, the Dearborn, Michigan, company said the price cuts are part of Ford’s plan to keep the SUV competitive in a fast-changing market.                                  
+                                    “We are not going to cede ground to anyone,” said Marin Gjaja, Chief Customer Officer of Ford Model e, the company’s electric vehicle unit.
+                                    <br />
+                                        <br />
+                                  The price of a base rear-wheel-drive standard range Mach-E will drop $900, from $46,895 to $45,995. The top-end GT extended range will fall $5,900, from $69,895 to $63,995. The prices don’t include shipping, government fees or taxes.
+                                  <br />
+                                        <br />
+                                  On Jan. 13, Tesla Inc. slashed prices dramatically on several versions of its electric vehicles, making some of its models eligible for a new federal tax credit that could help spur buyer interest.
+                                  <br />
+                                        <br />
+                                  The company dropped prices nearly 20% in the United States on some versions of the Model Y SUV, its top seller. That cut will make more versions of the Model Y eligible for a $7,500 electric-vehicle tax credit, which will be available through March. Tesla also reduced the base price of the Model 3, its least expensive model, by about 6%.
+                                  <br />
+                                        <br />
+                                  The cuts were in response to slowing demand and Tesla’s sagging stock price. But CEO Elon Musk predicted they would yield stronger sales, with the company delivering 1.8 million vehicles this year, up 40% from 2022. 
                                   </p>
                            },
-                           
+                           {
+                            id:51,
+                            story:<p>
+
+                                  </p>
+                           },
+                           {
+                            id:52,
+                            story:<p>
+
+                                  </p>
+                           },
+                           {
+                            id:53,
+                            story:<p>
+
+                                  </p>
+                           },
+                           {
+                            id:54,
+                            story:<p>
+
+                                  </p>
+                           },
                   ]
 
 

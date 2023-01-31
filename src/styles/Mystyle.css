@@ -159,7 +159,7 @@ body,html {
     flex-direction: column;
     text-decoration: none;
     text-transform: none;
-    width: 250px;
+    width: 240px;
     height:300px;
     background-color: rgb(255, 255, 255);
     margin:4px;
@@ -167,8 +167,8 @@ body,html {
     
 }
 .news--tab--container:hover{
-    width: 255px;
-    height:230px;
+    width: 242px;
+    height:310px;
     box-shadow: 1px 1px 1px;
     border: 2px solid peru;
     transition:1000ms
@@ -188,7 +188,7 @@ body,html {
    
     border-radius: 5px;
     max-width:100%;
-    aspect-ratio:2;
+    aspect-ratio:1;
     margin-left:2px;
     margin-top:2px;
     box-shadow: 2px 2px 1px;
