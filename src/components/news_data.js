@@ -558,7 +558,7 @@ import News from '../FullStoryData/News'
         image_tag:"",
         headline:"After Tesla price cut, Ford follows suit with Mustang Mach-E",         
         news_age: TimeStamp (new Date(2023,0,31,14,8,0)),
-        author:'JONATHAN LANDRUM Jr.',
+        author:'Tom Krisher',
         story:<News id={50}/>
       },
     ];     
