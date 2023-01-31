@@ -514,6 +514,30 @@ import News from '../FullStoryData/News'
         author:'Hamid Ganji',
         story:<News id={45}/>
       },
+
+      {
+        id:46,
+        region:'Africa',
+        niche:'Life_Style',
+        image: "image46.png",
+        image_tag:"",
+        headline:"One woman’s forgotten story reveals a ... truth about Africa’s written histories",         
+        news_age: TimeStamp (new Date(2023,0,31,11,8,0)),
+        author:'Joel Cabrita',
+        story:<News id={46}/>
+      },
+      
+      {
+        id:48,
+        region:'Africa',
+        niche:'Economy',
+        image: "image48.png",
+        image_tag:"",
+        headline:"What should be the top priority for Africa in 2023?",         
+        news_age: TimeStamp (new Date(2023,0,31,11,8,0)),
+        author:' NICOLE WINFIELD, JEAN-YVES KAMAKE and NQOBILE NTSHANGASE',
+        story:<News id={48}/>
+      },
     ];     
 
    

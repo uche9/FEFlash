@@ -1609,9 +1609,102 @@
                            {
                             id:46,
                             story:<p>
+                                  Over the course of 2018, during a research period in the small southern African kingdom of Eswatini, I made multiple phone calls. My question was always the same: had the person heard of someone called Regina Twala?
 
+                                  Twala had been a writer, intellectual and anti-colonial political activist of the 1950s and 60s. She was born in South Africa, but after her arrest in 1952 for participating in the non-violent resistance movement the Defiance Campaign, she found the country increasingly repressive. In 1954, like many other Black activists she chose to cross the border to Eswatini, formerly Swaziland, to live in exile, and died there in 1968 at 60. She was the second Black woman to obtain a degree from the University of the Witwatersrand in Johannesburg and was one of the co-founders of the Swaziland Progressive Party, Eswatini’s first political party, in 1960.
+
+                                  Yet no one I phoned had heard of Twala. I was surprised. From the little I knew of her, Twala had clearly been an influential figure. And Eswatini – where I was raised and educated – is a small country, about the size of New Jersey. It’s hard to remain anonymous there.
+                                 
+                                     <p className='container--image--item'>
+                                                <img className='image--item' 
+                                                    src={require(`../images/image46/image46_1.png`)} style={{margin:'20px', width:'100%', aspectRatio:'2' }}  alt='headline_photo' 
+                                                    
+                                                  />
+                                      Written Out: the Silencing of Regina Gelana Twala by Joel Cabrita. Photograph: Courtesy of Ohio University Press        
+                                      </p>
+                                      How could I make sense of the fact that a significant woman of her era could be virtually erased from popular history and memory? At the heart of the mystery stood another intellectual – a celebrated European historian called Bengt Sundkler. As I would learn, Sundkler’s fame existed in direct reciprocity with Twala’s obscurity.
+                                        <br />
+                                        <br />
+                                      In 1976, Sundkler published a book on religion in Africa, called Zulu Zion. It would become a celebrated reference point for all interested in how Christianity in Africa expressed itself via existing indigenous religious beliefs.
+                                      <br />
+                                        <br />
+                                      Unable to travel to southern Africa due to his heavy teaching obligations at Uppsala university in Sweden, Sundkler hired Twala as his research assistant, paying her to undertake an investigation of African churches throughout the 1950s. The Uppsala archives contain dozens of pages of research material sent by Twala to Sundkler on this topic. Consider this paragraph, where Twala describes how a group of church women danced with flags and sticks to the royal palace (Lobamba) of the king of Swaziland, Sobhuza II:
+                                      <br />
+                                        <br />
+                                          <i>''A bell was rung, and that was a signal for all to find their staves and set out for Lobamba [Sobhuza’s palace], then when the women began singing the congregation began marching in circles. The women with flags, emagosa, always led the way. This parade before the Church House is called kuhlehla, same term as used for warriors or age-groups when they dance or give a display before royalty."</i>
+                                          <br />
+                                        <br />
+                                      Imagine my astonishment when I discovered a strikingly similar passage published in Sundkler’s Zulu Zion. Sundkler passed these words off as his own but they were lifted near-directly from the material Twala had sent him 20 years earlier:
+                                 
                                  </p>
-                           }
+                           },
+
+                           {
+                            id:47,
+                            story:<p>
+                                     VATICAN CITY — Pope Francis is opening a six-day visit to Congo and South Sudan on Tuesday, aiming to bring a message of peace to two countries riven by poverty, conflict and what Francis has called a lingering “colonialist mentality” that still considers Africa ripe for exploitation.
+                                     <br />
+                                        <br />
+                                    Aid groups are hoping Francis’ trip will shine a spotlight on two of the world’s forgotten conflicts and rekindle international attention on some of Africa’s worst humanitarian crises, amid donor fatigue and new aid priorities in Ukraine.
+                                    <br />
+                                        <br />
+                                    But Francis’ trip will also bring him face-to-face with the future of the Catholic Church: Africa is one of the only places in the world where the Catholic flock is growing, in terms of practicing faithful as well as fresh vocations to the priesthood and religious life.
+                                    <br />
+                                        <br />
+                                    That makes his trip, his fifth to the African continent in his 10-year pontificate, all the more important as Francis seeks to make his mark on reshaping the church as a “field hospital for wounded souls” where all are welcome and poor people have a special pride of place.
+                                    <br />
+                                        <br />
+                                    “Yes, Africa is in turmoil and is also suffering from the invasion of exploiters,” Francis told The Associated Press in an interview last week. But he said the church can also learn from the continent and its people.
+                                    “We need to listen to their culture: dialogue, learn, talk, promote,” Francis said, suggesting that his message would differ from the scolding tone St. John Paul II used in 1980 and 1985 when he reminded Congolese priests and bishops of the need to stick to their celibacy vows.
+                                    <br />
+                                        <br />
+                                    Congo, Francis’ first stop, stands out as the African country with most Catholics hands down: Half of its 105 million people are Catholic, the country counts more than 6,000 priests, 10,000 nuns and more than 4,000 seminarians — 3.6% of the global total of young men studying for the priesthood.
+                                    <br />0
+                                        <br />
+                                    Congolese faithful were flocking to Kinshasa for Francis’ main event, a Mass on Wednesday at Ndolo airport that is expected to draw as many as 2 million people in one of the biggest gatherings of its kind in Congo and one of Francis’ biggest Masses ever.
+                                        <br />
+                                        <br />
+                                    “There are people who chartered planes to come here because there were so many of them!” marveled Inniance Mukania, who travelled to Kinshasa from the Kolwezi diocese in southern Congo.
+                                  </p>
+                           },
+
+                           {
+                            id:48,
+                            story:<p>
+                                    Brookings Africa Growth Initiative (AGI) will launch its annual flagship report, Foresight Africa.
+                                    <br />
+                                        <br />
+                                    Since we launched the previous edition of Foresight Africa in January 2022, our world has changed remarkably. Russia invaded Ukraine—an unanticipated event that roiled the global economy and sent food, fuel, and fertilizer prices sky high. Sanctions on Russia resulted in trade and logistical bottlenecks, which added more pressure on already strained supply chains. The U.S. Federal Reserve and other major central banks’ unrelenting efforts to tame inflation ushered in a new era of high interest rates and aggravated several countries’ ability to settle their international financial obligations. Meanwhile, the uneven recovery from the COVID-19 pandemic continued to feature in headlines across Africa and elsewhere. The combination of fragility in parts of the African continent and adverse weather conditions dampened economic growth in the region in 2022.
+                                    <br />
+                                        <br />
+                                    With these external and internal headwinds, it is easy to be pessimistic about Africa’s prospects. Yet, time and time again—as we have seen in the case of the Ebola crisis, HIV/AIDS crisis, and now the COVID-19 pandemic—Africa has proved resilient. We must be conscious of the danger of a single story—especially as many African countries will continue to fare well, despite the odds. Indeed, even though the region is unlikely to be fully out of the woods in 2023, the Economist Intelligence Unit forecasts overall growth of
+                                    <br />
+                                        <br />
+                                    3.2 percent. Medium-sized economies, such as Senegal, Côte d’Ivoire, the Democratic Republic of Congo, and Kenya, will drive much of this growth—with predicted growth rates of 5 to 7 percent in the year ahead. On the other hand, the region’s economic powerhouses (South Africa, Nigeria, and Egypt) are expected to record slower growth.
+                                    <br />
+                                        <br />
+                                    Despite these obstacles, I open this year’s edition on an optimistic note, bearing in mind Africa’s resilience and demonstrated capacity to weather severe headwinds. This optimism is buoyed by several factors: an enhanced collaboration that culminated in operationalization of the African Continental Free Trade Area (AfCFTA); the coming together of African institutions (the African Union, Africa CDC, United Nations Economic Commission for Africa, African Export-Import Bank, and others) to secure funding for vaccines; and the region’s rapid adoption of technological innovations to address practical problems—as evidenced by the innovative digital services that boomed during the pandemic.
+                                    <br />
+                                        <br />
+                                    With these external and internal headwinds, it is easy to be pessimistic about Africa’s prospects. Yet, time and time again—as we have seen in the case of the Ebola crisis, HIV/AIDS crisis, and now the COVID-19 pandemic—Africa has proved resilient. We must be conscious of the danger of a single story—especially as many African countries will continue to fare well, despite the odds. Indeed, even though the region is unlikely to be fully out of the woods in 2023, the Economist Intelligence Unit forecasts overall growth of
+                                    <br />
+                                        <br />
+                                    3.2 percent. Medium-sized economies, such as Senegal, Côte d’Ivoire, the Democratic Republic of Congo, and Kenya, will drive much of this growth—with predicted growth rates of 5 to 7 percent in the year ahead. On the other hand, the region’s economic powerhouses (South Africa, Nigeria, and Egypt) are expected to record slower growth.
+                                  </p>
+                           },
+
+                           {
+                            id:49,
+                            story:<p>
+
+                                  </p>
+                           },
+                           {
+                            id:50,
+                            story:<p>
+
+                                  </p>
+                           },
                            
                   ]
 
